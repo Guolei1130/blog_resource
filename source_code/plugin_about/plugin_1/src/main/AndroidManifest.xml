@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.guolei.plugin_1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".PluginActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <receiver android:name=".PluginReceiver">
+            <intent-filter>
+                <action android:name="com.guolei.plugin_1.action"/>
+            </intent-filter>
+        </receiver>
+        <provider
+            android:authorities="com.guolei.plugin_1.provider"
+            android:name=".PluginContentProvider"/>
+    </application>
+
+</manifest>

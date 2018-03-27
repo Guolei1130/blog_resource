@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="com.guolei.plugindemo.MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/start_activity"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:background="#f4c2c2"
+                android:gravity="center"
+                android:text="启动一个未注册的Activity"
+                />
+
+            <TextView
+                android:id="@+id/start_service"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"
+                android:background="#f4c2c2"
+                android:gravity="center"
+                android:text="启动一个未注册的Service"
+                />
+
+            <TextView
+                android:id="@+id/load_ext_jar"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"
+                android:background="#f4c2c2"
+                android:gravity="center"
+                android:text="加载外部的jar包"
+                />
+
+            <TextView
+                android:id="@+id/load_ext_apk"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"
+                android:background="#f4c2c2"
+                android:gravity="center"
+                android:text="加载外部的apk包"
+                />
+
+            <TextView
+                android:id="@+id/load_class_by_host"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"
+                android:background="#f4c2c2"
+                android:gravity="center"
+                android:text="加载外部的apk包,并加载Activity,解析配置文件等"
+                />
+
+            <TextView
+                android:id="@+id/delegate"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"
+                android:background="#f4c2c2"
+                android:gravity="center"
+                android:text="通过代理的方式"
+                />
+
+            <TextView
+                android:id="@+id/load_so_plugin"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"
+                android:background="#f4c2c2"
+                android:gravity="center"
+                android:text="加载含SO文件的插件"
+                />
+            <TextView
+                android:id="@+id/start_so_plugin"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_marginTop="10dp"
+                android:background="#f4c2c2"
+                android:gravity="center"
+                android:text="启动含SO插件的Activity"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
