@@ -1,0 +1,5088 @@
+==================== res_table_header start ====================
+res_chunk_header type: 0x2
+res_chunk_header header size: 12
+res_chunk_header size: 236448
+package count: 1
+==================== res_table_header end ======================
+
+
+=================== res_string_pool_header start =====================
+res_chunk_header type: 0x1
+res_chunk_header header size: 28
+res_chunk_header size: 58940
+string count : 1694
+style count: 0
+flags: 256
+string start: 6804
+style start: 0
+str:res/drawable/abc_spinner_textfield_background_material.xml
+str:res/drawable/tooltip_frame_light.xml
+str:res/drawable/tooltip_frame_dark.xml
+str:res/color/abc_btn_colored_borderless_text_material.xml
+str:res/drawable/abc_list_selector_background_transition_holo_dark.xml
+str:res/drawable/abc_btn_borderless_material.xml
+str:res/drawable/abc_btn_check_material.xml
+str:res/drawable/abc_switch_thumb_material.xml
+str:res/drawable/abc_list_selector_background_transition_holo_light.xml
+str:res/color/abc_btn_colored_text_material.xml
+str:res/layout/abc_action_bar_title_item.xml
+str:res/drawable/notification_tile_bg.xml
+str:res/drawable/abc_seekbar_track_material.xml
+str:res/color/abc_hint_foreground_material_dark.xml
+str:res/color/abc_hint_foreground_material_light.xml
+str:res/color/abc_primary_text_disable_only_material_dark.xml
+str:res/color/abc_primary_text_disable_only_material_light.xml
+str:res/drawable/abc_btn_colored_material.xml
+str:res/layout/abc_action_bar_up_container.xml
+str:res/drawable/abc_btn_default_mtrl_shape.xml
+str:res/drawable/abc_btn_radio_material.xml
+str:res/drawable/abc_seekbar_tick_mark_material.xml
+str:res/color/abc_primary_text_material_dark.xml
+str:res/color/abc_primary_text_material_light.xml
+str:res/color/abc_search_url_text.xml
+str:res/color/abc_secondary_text_material_dark.xml
+str:res/drawable/abc_seekbar_thumb_material.xml
+str:res/color/abc_secondary_text_material_light.xml
+str:res/color/abc_tint_btn_checkable.xml
+str:res/layout/abc_action_bar_view_list_nav_layout.xml
+str:res/color/abc_tint_default.xml
+str:res/drawable/abc_tab_indicator_material.xml
+str:res/layout/abc_action_menu_item_layout.xml
+str:res/color/abc_tint_edittext.xml
+str:res/drawable/notification_icon_background.xml
+str:res/color/abc_tint_seek_thumb.xml
+str:res/drawable/abc_text_cursor_material.xml
+str:res/layout/abc_action_menu_layout.xml
+str:res/color/abc_tint_spinner.xml
+str:res/layout/abc_action_mode_bar.xml
+str:res/color/abc_tint_switch_track.xml
+str:res/drawable/abc_cab_background_internal_bg.xml
+str:res/drawable/abc_cab_background_top_material.xml
+str:res/drawable/abc_textfield_search_material.xml
+str:res/layout/abc_action_mode_close_item_material.xml
+str:res/color/switch_thumb_material_dark.xml
+str:res/color/switch_thumb_material_light.xml
+str:res/drawable/abc_list_selector_holo_dark.xml
+str:res/drawable/abc_dialog_material_background.xml
+str:res/drawable/abc_edit_text_material.xml
+str:res/layout/abc_activity_chooser_view.xml
+str:res/drawable/abc_ic_ab_back_material.xml
+str:res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+str:res/drawable/abc_ic_clear_material.xml
+str:res/drawable/abc_vector_test.xml
+str:res/anim/tooltip_exit.xml
+str:res/anim/tooltip_enter.xml
+str:res/anim/abc_slide_out_top.xml
+str:res/drawable/abc_ic_go_search_api_material.xml
+str:res/layout/abc_activity_chooser_view_list_item.xml
+str:res/anim/abc_slide_out_bottom.xml
+str:res/anim/abc_slide_in_top.xml
+str:res/anim/abc_slide_in_bottom.xml
+str:res/anim/abc_shrink_fade_out_from_bottom.xml
+str:res/anim/abc_popup_exit.xml
+str:res/anim/abc_popup_enter.xml
+str:res/anim/abc_grow_fade_in_from_bottom.xml
+str:res/anim/abc_fade_out.xml
+str:res/anim/abc_fade_in.xml
+str:res/layout/abc_alert_dialog_button_bar_material.xml
+str:res/layout/tooltip.xml
+str:res/layout/support_simple_spinner_dropdown_item.xml
+str:res/layout/select_dialog_singlechoice_material.xml
+str:res/layout/select_dialog_multichoice_material.xml
+str:res/layout/select_dialog_item_material.xml
+str:res/layout/notification_template_part_time.xml
+str:res/layout/notification_template_part_chronometer.xml
+str:res/layout/notification_template_media_custom.xml
+str:res/layout/notification_template_media.xml
+str:res/drawable/abc_ic_menu_overflow_material.xml
+str:res/drawable/abc_ratingbar_small_material.xml
+str:res/layout/notification_template_lines_media.xml
+str:res/drawable/abc_list_selector_holo_light.xml
+str:res/layout/notification_template_icon_group.xml
+str:res/drawable/abc_item_background_holo_light.xml
+str:res/drawable/abc_item_background_holo_dark.xml
+str:res/drawable/abc_ic_voice_search_api_material.xml
+str:res/layout/notification_template_big_media_narrow_custom.xml
+str:res/layout/notification_template_big_media_narrow.xml
+str:res/layout/notification_template_big_media_custom.xml
+str:res/drawable/abc_ratingbar_material.xml
+str:res/layout/notification_template_big_media.xml
+str:res/layout/notification_media_cancel_action.xml
+str:res/layout/notification_media_action.xml
+str:res/layout/abc_alert_dialog_material.xml
+str:res/drawable/abc_ic_search_api_material.xml
+str:res/layout/abc_alert_dialog_title_material.xml
+str:res/layout/notification_action_tombstone.xml
+str:res/layout/abc_dialog_title_material.xml
+str:res/layout/notification_action.xml
+str:res/layout/activity_plugin.xml
+str:res/drawable/abc_ratingbar_indicator_material.xml
+str:res/layout/abc_select_dialog_material.xml
+str:res/layout/abc_search_view.xml
+str:res/layout/abc_search_dropdown_item_icons_2line.xml
+str:res/drawable/notification_bg_low.xml
+str:res/layout/abc_expanded_menu_layout.xml
+str:res/layout/abc_list_menu_item_checkbox.xml
+str:res/layout/abc_screen_toolbar.xml
+str:res/layout/abc_screen_simple_overlay_action_mode.xml
+str:res/layout/abc_screen_simple.xml
+str:res/layout/abc_list_menu_item_icon.xml
+str:res/layout/abc_screen_content_include.xml
+str:res/layout/abc_popup_menu_item_layout.xml
+str:res/layout/abc_popup_menu_header_item_layout.xml
+str:res/layout/abc_list_menu_item_radio.xml
+str:res/drawable/notification_bg.xml
+str:res/layout/abc_list_menu_item_layout.xml
+str:res/color-v11/abc_background_cache_hint_selector_material_light.xml
+str:res/color-v11/abc_background_cache_hint_selector_material_dark.xml
+str:res/layout-v16/notification_template_custom_big.xml
+str:res/drawable-v21/notification_action_background.xml
+str:res/layout-v21/abc_screen_toolbar.xml
+str:res/layout-v21/notification_action.xml
+str:res/drawable-v21/abc_ratingbar_indicator_material.xml
+str:res/layout-v21/notification_action_tombstone.xml
+str:res/drawable-v21/abc_ratingbar_material.xml
+str:res/layout-v21/notification_template_custom_big.xml
+str:res/layout-v21/notification_template_icon_group.xml
+str:res/drawable-v21/abc_ratingbar_small_material.xml
+str:res/drawable-v21/abc_edit_text_material.xml
+str:res/drawable-v21/abc_btn_colored_material.xml
+str:res/drawable-v21/abc_action_bar_item_background_material.xml
+str:res/layout-v22/abc_alert_dialog_button_bar_material.xml
+str:res/drawable-v23/abc_control_background_material.xml
+str:res/color-v23/abc_tint_switch_track.xml
+str:res/color-v23/abc_tint_spinner.xml
+str:res/color-v23/abc_tint_seek_thumb.xml
+str:res/color-v23/abc_tint_edittext.xml
+str:res/color-v23/abc_tint_default.xml
+str:res/color-v23/abc_tint_btn_checkable.xml
+str:res/color-v23/abc_color_highlight_material.xml
+str:res/color-v23/abc_btn_colored_text_material.xml
+str:res/color-v23/abc_btn_colored_borderless_text_material.xml
+str:res/drawable-v24/ic_launcher_foreground.xml
+str:res/drawable-v24/ic_launcher_foreground_1.xml
+str:res/layout-v26/abc_screen_toolbar.xml
+str:res/drawable-ldpi-v4/ic_launcher_background.png
+str:res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+str:res/mipmap-mdpi-v4/ic_launcher.png
+str:res/mipmap-mdpi-v4/ic_launcher_round.png
+str:res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+str:res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+str:res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+str:res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+str:res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+str:res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+str:res/drawable-mdpi-v4/notification_bg_normal.9.png
+str:res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+str:res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+str:res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+str:res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+str:res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+str:res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png
+str:res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png
+str:res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+str:res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png
+str:res/drawable-mdpi-v4/abc_ic_star_black_48dp.png
+str:res/drawable-mdpi-v4/ic_launcher_background.png
+str:res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+str:res/drawable-mdpi-v4/abc_ic_star_black_16dp.png
+str:res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+str:res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+str:res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+str:res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+str:res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+str:res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+str:res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+str:res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+str:res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+str:res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+str:res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+str:res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+str:res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+str:res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+str:res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png
+str:res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+str:res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png
+str:res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png
+str:res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+str:res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png
+str:res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+str:res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+str:res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+str:res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+str:res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+str:res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+str:res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+str:res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+str:res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+str:res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+str:res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+str:res/drawable-mdpi-v4/abc_ic_star_black_36dp.png
+str:res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+str:res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+str:res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+str:res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+str:res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+str:res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+str:res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+str:res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+str:res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+str:res/drawable-hdpi-v4/abc_ic_star_black_16dp.png
+str:res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+str:res/drawable-hdpi-v4/abc_ic_star_black_36dp.png
+str:res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+str:res/drawable-hdpi-v4/abc_ic_star_black_48dp.png
+str:res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png
+str:res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+str:res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+str:res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png
+str:res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+str:res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+str:res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png
+str:res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+str:res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+str:res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+str:res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+str:res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+str:res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+str:res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png
+str:res/mipmap-hdpi-v4/ic_launcher_round.png
+str:res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+str:res/mipmap-hdpi-v4/ic_launcher.png
+str:res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+str:res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png
+str:res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+str:res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+str:res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+str:res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png
+str:res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+str:res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+str:res/drawable-hdpi-v4/notification_bg_normal.9.png
+str:res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+str:res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+str:res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+str:res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+str:res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+str:res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png
+str:res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+str:res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+str:res/drawable-hdpi-v4/ic_launcher_background.png
+str:res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+str:res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+str:res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+str:res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+str:res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+str:res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+str:res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+str:res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+str:res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+str:res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+str:res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+str:res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+str:res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+str:res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+str:res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+str:res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+str:res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+str:res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+str:res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+str:res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+str:res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+str:res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png
+str:res/drawable-xhdpi-v4/ic_launcher_background.png
+str:res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+str:res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+str:res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+str:res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png
+str:res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png
+str:res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+str:res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+str:res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png
+str:res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+str:res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+str:res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+str:res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+str:res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+str:res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+str:res/drawable-xhdpi-v4/notification_bg_normal.9.png
+str:res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png
+str:res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png
+str:res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+str:res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+str:res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+str:res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+str:res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png
+str:res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+str:res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png
+str:res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+str:res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png
+str:res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+str:res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+str:res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+str:res/mipmap-xhdpi-v4/ic_launcher.png
+str:res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+str:res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+str:res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+str:res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+str:res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png
+str:res/mipmap-xhdpi-v4/ic_launcher_round.png
+str:res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+str:res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+str:res/mipmap-xxhdpi-v4/ic_launcher_round.png
+str:res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+str:res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png
+str:res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+str:res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+str:res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+str:res/mipmap-xxhdpi-v4/ic_launcher.png
+str:res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+str:res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+str:res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+str:res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+str:res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png
+str:res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+str:res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+str:res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+str:res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png
+str:res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png
+str:res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+str:res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+str:res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png
+str:res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png
+str:res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+str:res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+str:res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png
+str:res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+str:res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+str:res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+str:res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png
+str:res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+str:res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png
+str:res/drawable-xxhdpi-v4/ic_launcher_background.png
+str:res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png
+str:res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+str:res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+str:res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+str:res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+str:res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+str:res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+str:res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+str:res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+str:res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+str:res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+str:res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+str:res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+str:res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+str:res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+str:res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+str:res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+str:res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+str:res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+str:res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+str:res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+str:res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+str:res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+str:res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+str:res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png
+str:res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+str:res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+str:res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+str:res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+str:res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+str:res/drawable-xxxhdpi-v4/ic_launcher_background.png
+str:res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+str:res/mipmap-xxxhdpi-v4/ic_launcher.png
+str:res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+str:res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png
+str:res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png
+str:res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+str:res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+str:res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+str:res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+str:res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png
+str:res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png
+str:res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png
+str:res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png
+str:res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+str:res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png
+str:res/mipmap-xxxhdpi-v4/ic_launcher_round.png
+str:res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+str:res/drawable-anydpi-v21/ic_launcher_background.xml
+str:res/mipmap-anydpi-v26/ic_launcher_round.xml
+str:res/mipmap-anydpi-v26/ic_launcher.xml
+str:res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+str:res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+str:res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+str:res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+str:res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+str:res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+str:res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+str:res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+str:res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+str:res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+str:res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+str:res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+str:res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+str:res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+str:res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+str:{}
+str:plugin_1
+str:sans-serif-light
+str:sans-serif-medium
+str:sans-serif
+str:%1$s, %2$s, %3$s
+str:%1$s, %2$s
+str:999+
+str:ON
+str:OFF
+str:More options
+str:Clear query
+str:Search query
+str:Search…
+str:Done
+str:Search
+str:Navigate up
+str:Collapse
+str:Submit query
+str:See all
+str:Voice search
+str:Navigate home
+str:Share with %s
+str:Choose an app
+str:Share with
+str:Esborra la consulta
+str:Comparteix amb
+str:Selecciona una aplicació
+str:Comparteix amb %s
+str:Cerca per veu
+str:Mostra'ls tots
+str:Envia la consulta
+str:Navega cap a dalt
+str:Replega
+str:Fet
+str:Navega a la pàgina d'inici
+str:Consulta de cerca
+str:Més opcions
+str:Cerca...
+str:DESACTIVAT
+str:ACTIVAT
+str:+999
+str:Cerca
+str:Vælg en app
+str:Talesøgning
+str:Naviger op
+str:Indsend forespørgslen
+str:Luk
+str:Søg
+str:FRA
+str:Søgeforespørgsel
+str:TIL
+str:Flere muligheder
+str:Søg…
+str:Ryd forespørgslen
+str:Naviger hjem
+str:Del med
+str:Skjul
+str:Del med %s
+str:Se alle
+str:۹۹۹+
+str:‏%1$s‏، %2$s‏، %3$s
+str:گزینه‌های بیشتر
+str:جستجو…
+str:پاک کردن عبارت جستجو
+str:کوچک کردن
+str:روشن
+str:‏%1$s‏، %2$s
+str:پیمایش به صفحه اصلی
+str:عبارت جستجو
+str:خاموش
+str:تمام
+str:جستجو
+str:‏اشتراک‌گذاری با %s
+str:ارسال عبارت جستجو
+str:پیمایش به بالا
+str:جستجوی گفتاری
+str:مشاهده همه
+str:انتخاب برنامه
+str:اشتراک‌گذاری با
+str:音声検索
+str:共有
+str:すべて表示
+str:検索…
+str:検索キーワードを送信
+str:上へ移動
+str:検索
+str:完了
+str:検索キーワード
+str:%sと共有
+str:%1$s、%2$s
+str:検索キーワードを削除
+str:その他のオプション
+str:%1$s、%2$s、%3$s
+str:ホームへ移動
+str:折りたたむ
+str:アプリの選択
+str:გამორთულია
+str:დასრულდა
+str:ძიების მოთხოვნა
+str:აპის არჩევა
+str:მეტი ვარიანტები
+str:მოთხოვნის გადაგზავნა
+str:ძიება
+str:%s-თან გაზიარება
+str:აკეცვა
+str:ძიება...
+str:ზემოთ ნავიგაცია
+str:მოთხოვნის გასუფთავება
+str:გაზიარება:
+str:ხმოვანი ძიება
+str:ყველას ნახვა
+str:მთავარზე ნავიგაცია
+str:ჩართულია
+str:ਇੱਕ ਐਪ ਚੁਣੋ
+str:ਖੋਜ
+str:ਸਵਾਲ ਹਟਾਓ
+str:ਵੌਇਸ ਖੋਜ
+str:ਹੋਮ ਨੈਵੀਗੇਟ ਕਰੋ
+str:ਹੋ ਗਿਆ
+str:ਤੇ
+str:%s ਨਾਲ ਸਾਂਝਾ ਕਰੋ
+str:ਸਭ ਦੇਖੋ
+str:ਬੰਦ
+str:ਖੋਜੋ
+str:ਹੋਰ ਚੋਣਾਂ
+str:ਇਸ ਨਾਲ ਸਾਂਝਾ ਕਰੋ
+str:ਨਸ਼ਟ ਕਰੋ
+str:ਉੱਪਰ ਨੈਵੀਗੇਟ ਕਰੋ
+str:ਸਵਾਲ ਪ੍ਰਸਤੁਤ ਕਰੋ
+str:ਸਵਾਲ ਖੋਜੋ
+str:ਖੋਜ…
+str:தேடு...
+str:வினவலைச் சமர்ப்பி
+str:சுருக்கு
+str:தேடல் வினவல்
+str:%s உடன் பகிர்
+str:முடிந்தது
+str:மேலே வழிசெலுத்து
+str:மேலும் விருப்பங்கள்
+str:இதனுடன் பகிர்
+str:தேடு
+str:இயக்கு
+str:குரல் தேடல்
+str:முடக்கு
+str:முகப்பிற்கு வழிசெலுத்து
+str:வினவலை அழி
+str:பயன்பாட்டைத் தேர்வுசெய்க
+str:எல்லாம் காட்டு
+str:Velg en app
+str:Søk
+str:Talesøk
+str:Flere alternativer
+str:Utfør søket
+str:Ferdig
+str:%1$s – %2$s – %3$s
+str:Gå opp
+str:Søk …
+str:Gå til startsiden
+str:Søkeord
+str:Slett søket
+str:%1$s – %2$s
+str:PÅ
+str:AV
+str:УКЛ.
+str:больш за 999
+str:Выбраць праграму
+str:Згарнуць
+str:Выдалiць запыт
+str:Запыт на пошук
+str:Абагуліць з %s
+str:Галасавы пошук
+str:Перайсці ўверх
+str:Гатова
+str:Дадатковыя параметры
+str:Адправіць запыт
+str:Перайсці на галоўную старонку
+str:Прагледзець усё
+str:ВЫКЛ.
+str:Абагуліць з
+str:Пошук...
+str:Пошук
+str:Alle ansehen
+str:Aus
+str:App auswählen
+str:Weitere Optionen
+str:Zur Startseite
+str:Suchanfrage senden
+str:Sprachsuche
+str:Nach oben
+str:Suchen
+str:Freigeben für %s
+str:Minimieren
+str:Suchanfrage löschen
+str:An
+str:Suchanfrage
+str:Freigeben für
+str:Fertig
+str:Suchen…
+str:%1$s, %2$s: %3$s
+str:%1$s: %2$s
+str:९९९+
+str:%s सँग साझेदारी गर्नुहोस्
+str:खोज्नुहोस्...
+str:सम्पन्न भयो
+str:साझेदारी गर्नुहोस्...
+str:जिज्ञासाको खोज गर्नुहोस्
+str:खोज्नुहोस्
+str:प्रश्‍न हटाउनुहोस्
+str:माथि खोज्नुहोस्
+str:संक्षिप्त पार्नुहोस्
+str:भ्वाइस खोजी
+str:एउटा अनुप्रयोग छान्नुहोस्
+str:थप विकल्पहरू
+str:सक्रिय गर्नुहोस्
+str:गृह खोज्नुहोस्
+str:जिज्ञासा पेस गर्नुहोस्
+str:सबै हेर्नुहोस्
+str:निष्क्रिय पार्नुहोस्
+str:ఆన్ చేయి
+str:ప్రశ్నని సమర్పించు
+str:ఆఫ్ చేయి
+str:మరిన్ని ఎంపికలు
+str:అనువర్తనాన్ని ఎంచుకోండి
+str:అన్నీ చూడండి
+str:%sతో భాగస్వామ్యం చేయి
+str:కుదించండి
+str:ప్రశ్నను క్లియర్ చేయి
+str:పైకి నావిగేట్ చేయండి
+str:ప్రశ్న శోధించండి
+str:వీరితో భాగస్వామ్యం చేయి
+str:పూర్తయింది
+str:శోధించు
+str:శోధించు...
+str:హోమ్‌కు నావిగేట్ చేయండి
+str:వాయిస్ శోధన
+str:Navigeer op
+str:Dien navraag in
+str:Navigeer tuis
+str:Stemsoektog
+str:Klaar
+str:Soek
+str:Soeknavraag
+str:Sien alles
+str:Deel met
+str:Soek …
+str:Deel met %s
+str:Vou in
+str:Vee navraag uit
+str:Kies 'n program
+str:Nog opsies
+str:AF
+str:AAN
+str:ИЗКЛ.
+str:Още опции
+str:Изберете приложение
+str:Свиване
+str:Търсете…
+str:Гласово търсене
+str:„%1$s“, „%2$s“ – %3$s
+str:„%1$s“ – %2$s
+str:Изпращане на заявката
+str:Придвижване към „Начало“
+str:Вижте всички
+str:Споделяне със:
+str:Придвижване нагоре
+str:Търсене
+str:Споделяне със: %s
+str:Изчистване на заявката
+str:Заявка за търсене
+str:Готово
+str:ВКЛ.
+str:ข้อความค้นหา
+str:นำทางไปหน้าแรก
+str:ตัวเลือกอื่น
+str:ล้างข้อความค้นหา
+str:แชร์กับ %s
+str:ค้นหา
+str:ดูทั้งหมด
+str:เสร็จสิ้น
+str:เลือกแอป
+str:ค้นหาด้วยเสียง
+str:ส่งข้อความค้นหา
+str:เปิด
+str:ปิด
+str:นำทางขึ้น
+str:ยุบ
+str:แชร์กับ
+str:ค้นหา…
+str:Haku…
+str:Kutista
+str:Siirry ylös
+str:Jakaminen:
+str:Puhehaku
+str:Lähetä kysely
+str:Valitse sovellus
+str:Tyhjennä kysely
+str:Hakulauseke
+str:Lisää
+str:Näytä kaikki
+str:Siirry etusivulle
+str:Haku
+str:Jakaminen: %s
+str:KÄYTÖSSÄ
+str:POIS KÄYTÖSTÄ
+str:Valmis
+str:मुख्यपृष्ठ पर नेविगेट करें
+str:खोज
+str:खोजा जा रहा है…
+str:खोज क्वेरी
+str:क्‍वेरी साफ़ करें
+str:%s के साथ साझा करें
+str:पूर्ण
+str:खोजें
+str:संक्षिप्त करें
+str:सभी देखें
+str:कोई एप्‍लिकेशन चुनें
+str:इसके द्वारा साझा करें
+str:ऊपर नेविगेट करें
+str:क्वेरी सबमिट करें
+str:ध्वनि खोज
+str:अधिक विकल्प
+str:चालू
+str:बंद
+str:හකුළන්න
+str:ගෙදරට සංචාලනය කරන්න
+str:%s සමඟ බෙදාගන්න
+str:හඬ සෙවීම
+str:විමසුම යොමු කරන්න
+str:තවත් විකල්ප
+str:සමඟ බෙදාගන්න
+str:විමසුම හිස් කරන්න
+str:සෙවීම
+str:ඉහලට සංචාලනය කරන්න
+str:සියල්ල බලන්න
+str:යෙදුමක් තෝරන්න
+str:අවසාන වූ
+str:සෙවුම් විමසුම
+str:ක්‍රියාවිරහිතයි
+str:සොයන්න
+str:ක්‍රියාත්මකයි
+str:සොයන්න...
+str:Tìm kiếm…
+str:Chọn một ứng dụng
+str:TẮT
+str:Thêm tùy chọn
+str:Xong
+str:Thu gọn
+str:Chia sẻ với %s
+str:Gửi truy vấn
+str:Tìm kiếm
+str:Điều hướng về trang chủ
+str:Tìm kiếm bằng giọng nói
+str:Chia sẻ với
+str:Xóa truy vấn
+str:Điều hướng lên trên
+str:Xem tất cả
+str:BẬT
+str:Tìm kiếm truy vấn
+str:Жоғары қозғалу
+str:Барлығын көру
+str:ҚОСУЛЫ
+str:ӨШІРУЛІ
+str:Дауыс арқылы іздеу
+str:Негізгі бетте қозғалу
+str:Сұрақты жіберу
+str:%s бөлісу
+str:Дайын
+str:Бөлісу
+str:Тасалау
+str:Сұрақты іздеу
+str:Іздеу…
+str:Сұрақты жою
+str:Іздеу
+str:Басқа опциялар
+str:Қолданбаны таңдау
+str:Повеќе опции
+str:Избери апликација
+str:Види ги сите
+str:Пребарај
+str:ИСКЛУЧЕНО
+str:ВКЛУЧЕНО
+str:Исчисти барање
+str:Движи се нагоре
+str:Пребарување…
+str:Поднеси барање
+str:Гласовно пребарување
+str:Сподели со
+str:Пребарај барање
+str:Движи се кон дома
+str:Собери
+str:Zbaliť
+str:Vyhľadávací dopyt
+str:Hlasové vyhľadávanie
+str:VYPNUTÉ
+str:Vyhľadávanie
+str:Prejsť na plochu
+str:Odoslať dopyt
+str:Ďalšie možnosti
+str:Vyhľadať…
+str:Zdieľať pomocou %s
+str:Prejsť hore
+str:Zdieľať pomocou
+str:Vymazať dopyt
+str:ZAPNUTÉ
+str:Hľadať
+str:Zvoľte aplikáciu
+str:Zobraziť všetko
+str:Hotovo
+str:Пошук…
+str:Переглянути всі
+str:Надіслати через
+str:Перейти вгору
+str:Надіслати запит
+str:Згорнути
+str:ВИМК.
+str:УВІМК.
+str:Вибрати програму
+str:Очистити запит
+str:Інші опції
+str:Надіслати через %s
+str:Голосовий пошук
+str:Перейти на головний
+str:Пошуковий запит
+str:Προβολή όλων
+str:Ερώτημα αναζήτησης
+str:Πλοήγηση στην αρχική σελίδα
+str:Περισσότερες επιλογές
+str:Κοινή χρήση με %s
+str:Διαγραφή ερωτήματος
+str:Επιλέξτε κάποια εφαρμογή
+str:ΕΝΕΡΓΟΠΟΙΗΣΗ
+str:Φωνητική αναζήτηση
+str:Αναζήτηση
+str:ΑΠΕΝΕΡΓΟΠΟΙΗΣΗ
+str:Σύμπτυξη
+str:Τέλος
+str:Αναζήτηση…
+str:Υποβολή ερωτήματος
+str:Κοινή χρήση με
+str:Πλοήγηση προς τα επάνω
+str:Máis opcións
+str:Ir á páxina de inicio
+str:Feito
+str:Consulta de busca
+str:ACTIVAR
+str:Busca por voz
+str:DESACTIVAR
+str:Desprazarse cara arriba
+str:Ver todas
+str:Escoller unha aplicación
+str:>999
+str:Borrar consulta
+str:Enviar consulta
+str:Compartir con %s
+str:Buscar
+str:Contraer
+str:Buscar…
+str:Compartir con
+str:അന്വേഷണം മായ്‌ക്കുക
+str:ഇവരുമായി പങ്കിടുക
+str:തിരയൽ
+str:ഓഫ്
+str:പൂർത്തിയാക്കി
+str:ചുരുക്കുക
+str:ഓൺ
+str:അന്വേഷണം സമർപ്പിക്കുക
+str:%s എന്നതുമായി പങ്കിടുക
+str:തിരയൽ അന്വേഷണം
+str:എല്ലാം കാണുക
+str:കൂടുതൽ‍ ഓപ്‌ഷനുകള്‍
+str:ഒരു അപ്ലിക്കേഷൻ തിരഞ്ഞെടുക്കുക
+str:തിരയുക…
+str:ഹോമിലേക്ക് നാവിഗേറ്റുചെയ്യുക
+str:തിരയുക
+str:മുകളിലേക്ക് നാവിഗേറ്റുചെയ്യുക
+str:ശബ്ദതിരയൽ
+str:Omhoog navigeren
+str:Delen met %s
+str:Een app selecteren
+str:Zoeken…
+str:Gesproken zoekopdracht
+str:Alles weergeven
+str:UIT
+str:Samenvouwen
+str:Zoekopdracht wissen
+str:Zoekopdracht verzenden
+str:Gereed
+str:Zoekopdracht
+str:Meer opties
+str:Navigeren naar startpositie
+str:Zoeken
+str:Delen met
+str:Przejdź wyżej
+str:Szukaj
+str:Wybierz aplikację
+str:Szukaj…
+str:Udostępnij dla %s
+str:Udostępnij dla
+str:WYŁ.
+str:Wyszukiwanie głosowe
+str:Zobacz wszystkie
+str:Przejdź do strony głównej
+str:Zwiń
+str:Wyczyść zapytanie
+str:WŁ.
+str:Wyślij zapytanie
+str:Gotowe
+str:Wyszukiwane hasło
+str:Więcej opcji
+str:Več možnosti
+str:Izbira aplikacije
+str:Iskanje …
+str:Deljenje z:
+str:Deljenje z
+str:Iskalna poizvedba
+str:Glasovno iskanje
+str:Krmarjenje navzgor
+str:IZKLOPLJENO
+str:Končano
+str:Pokaži vse
+str:Krmarjenje domov
+str:Iskanje
+str:Pošiljanje poizvedbe
+str:Strni
+str:Izbris poizvedbe
+str:VKLOPLJENO
+str:I-collapse
+str:I-OFF
+str:Pumili ng isang app
+str:Higit pang mga opsyon
+str:I-ON
+str:Ibahagi sa/kay
+str:I-clear ang query
+str:Maghanap…
+str:Mag-navigate patungo sa home
+str:Paghahanap gamit ang boses
+str:Ibahagi sa/kay %s
+str:Isumite ang query
+str:Query sa paghahanap
+str:Maghanap
+str:Tapos na
+str:Mag-navigate pataas
+str:Tingnan lahat
+str:ሁሉንም ይመልከቱ
+str:%1$s፣ %2$s
+str:ወደ ላይ ይዳስሱ
+str:ፈልግ
+str:ፍለጋ
+str:ተከናውኗል
+str:የፍለጋ ጥያቄ
+str:ጠፍቷል
+str:ከ%s ጋር ያጋሩ
+str:ሰብስብ
+str:የድምፅ ፍለጋ
+str:ፈልግ…
+str:መጠይቅ ያስረክቡ
+str:ተጨማሪ አማራጮች
+str:በርቷል
+str:ከሚከተለው ጋር ያጋሩ
+str:መጠይቅ አጽዳ
+str:ወደ መነሻ ይዳስሱ
+str:መተግበሪያ ይምረጡ
+str:%1$s፣ %2$s፣ %3$s
+str:ចែករំលែក​ជាមួយ
+str:ជម្រើស​ច្រើន​ទៀត
+str:រួចរាល់
+str:ដាក់​​​ស្នើ​សំណួរ
+str:បើក
+str:រកមើល​ឡើងលើ
+str:ស្វែងរក…
+str:រកមើល​ទៅ​ដើម
+str:បិទ
+str:សម្អាត​សំណួរ
+str:ជ្រើស​កម្មវិធី​​
+str:ស្វែងរក​សំណួរ
+str:ចែករំលែក​ជាមួយ %s
+str:ស្វែងរក
+str:មើល​ទាំងអស់
+str:ការស្វែងរក​សំឡេង
+str:បង្រួម
+str:সঙ্কুচিত করুন
+str:%s এর সাথে শেয়ার করুন
+str:ক্যোয়ারী জমা দিন
+str:অনুসন্ধান করুন
+str:ক্যোয়ারী অনুসন্ধান করুন
+str:একটি অ্যাপ্লিকেশান বেছে নিন
+str:ক্যোয়ারী সাফ করুন
+str:সবগুলো দেখুন
+str:হোম এ নেভিগেট করুন
+str:এর সাথে শেয়ার করুন
+str:আরো বিকল্প
+str:অনুসন্ধান...
+str:উপরের দিকে নেভিগেট করুন
+str:চালু
+str:বন্ধ
+str:৯৯৯+
+str:ভয়েস অনুসন্ধান
+str:সম্পন্ন হয়েছে
+str:AKTIF
+str:NONAKTIF
+str:Bagikan dengan %s
+str:Opsi lain
+str:Telusuri...
+str:Pilih aplikasi
+str:Kirim kueri
+str:Telusuri
+str:Kueri penelusuran
+str:Ciutkan
+str:Hapus kueri
+str:Navigasi naik
+str:Navigasi ke beranda
+str:Bagikan dengan
+str:Penelusuran suara
+str:Lihat semua
+str:Selesai
+str:ಸಂಕುಚಿಸು
+str:ಆಫ್
+str:ಧ್ವನಿ ಹುಡುಕಾಟ
+str:ಆನ್
+str:ಮುಖಪುಟವನ್ನು ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ
+str:ಪ್ರಶ್ನೆಯನ್ನು ಹುಡುಕಿ
+str:ಇವರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ
+str:ಪ್ರಶ್ನೆಯನ್ನು ಸಲ್ಲಿಸು
+str:ಹುಡುಕಿ…
+str:%s ಜೊತೆಗೆ ಹಂಚಿಕೊಳ್ಳಿ
+str:ಹುಡುಕಿ
+str:ಒಂದು ಅಪ್ಲಿಕೇಶನ್ ಆಯ್ಕೆಮಾಡಿ
+str:ಇನ್ನಷ್ಟು ಆಯ್ಕೆಗಳು
+str:ಮೇಲಕ್ಕೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ
+str:ಎಲ್ಲವನ್ನೂ ನೋಡಿ
+str:ಮುಗಿದಿದೆ
+str:ಪ್ರಶ್ನೆಯನ್ನು ತೆರವುಗೊಳಿಸು
+str:ИДЭВХГҮЙ
+str:Дуут хайлт
+str:Дээш шилжих
+str:Дууссан
+str:Нэмэлт сонголтууд
+str:Хумих
+str:Бүгдийг харах
+str:Хайх асуулга
+str:%s-тай хуваалцах
+str:Асуулгыг цэвэрлэх
+str:Хуваалцах
+str:Апп сонгох
+str:Хайлт
+str:Хайх...
+str:Асуулгыг илгээх
+str:Хайх
+str:Нүүр хуудас руу шилжих
+str:ИДЭВХТЭЙ
+str:사용
+str:검색어 삭제
+str:완료
+str:검색어 보내기
+str:앱 선택
+str:공유 대상
+str:검색
+str:전체 보기
+str:접기
+str:옵션 더보기
+str:위로 탐색
+str:음성 검색
+str:검색어
+str:%s와(과) 공유
+str:사용 안함
+str:검색...
+str:홈 탐색
+str:ແລ້ວໆ
+str:ສົ່ງການຊອກຫາ
+str:ໂຕເລືອກອື່ນ
+str:ແບ່ງປັນກັບ
+str:ຊອກຫາ
+str:ເລືອກແອັບຯ
+str:ເບິ່ງທັງຫມົດ
+str:ຊອກຫາດ້ວຍສຽງ
+str:ຂຶ້ນເທິງ
+str:ແບ່ງ​ປັນ​ກັບ​ %s
+str:ກັບໄປໜ້າຫຼັກ
+str:ຫຍໍ້
+str:ປິດ
+str:ເປີດ
+str:ລຶບຂໍ້ຄວາມຊອກຫາ
+str:Ștergeți interogarea
+str:Afișați-le pe toate
+str:Restrângeți
+str:Interogare de căutare
+str:Navigați în sus
+str:Căutare vocală
+str:˃999
+str:Căutați
+str:Terminat
+str:Trimiteți la
+str:Alegeți o aplicație
+str:DEZACTIVAȚI
+str:Căutați…
+str:Navigați la ecranul de pornire
+str:Trimiteți la %s
+str:Trimiteți interogarea
+str:Mai multe opțiuni
+str:Dërgo pyetjen
+str:Opsione të tjera
+str:Orientohu për në shtëpi
+str:Kërko pyetjen
+str:JOAKTIV
+str:Shpërnda publikisht me
+str:Zgjidh një aplikacion
+str:Kërko...
+str:Ngjitu lart
+str:Pastro pyetjen
+str:Shikoji të gjitha
+str:Shpërnda publikisht me %s
+str:Shpalos
+str:Kërkim me zë
+str:U krye!
+str:Kërko
+str:AKTIV
+str:بحث
+str:عرض الكل
+str:بحث…
+str:اختيار تطبيق
+str:‏مشاركة مع %s
+str:تشغيل
+str:إيقاف
+str:إرسال طلب البحث
+str:البحث
+str:خيارات إضافية
+str:طلب البحث
+str:التنقل إلى الشاشة الرئيسية
+str:مشاركة مع
+str:%1$s، %2$s، %3$s
+str:التنقل إلى أعلى
+str:محو طلب البحث
+str:تصغير
+str:البحث الصوتي
+str:تم
+str:%1$s، %2$s
+str:Tout afficher
+str:Sélectionner une application
+str:Partager avec
+str:Rechercher…
+str:OK
+str:Recherche vocale
+str:Plus d'options
+str:DÉSACTIVÉ
+str:Réduire
+str:Effacer la requête
+str:Revenir en haut de la page
+str:Envoyer la requête
+str:Requête de recherche
+str:ACTIVÉ
+str:Revenir à l'accueil
+str:Rechercher
+str:Partager avec %s
+str:Dodatne opcije
+str:Sažmi
+str:ISKLJUČENO
+str:Glasovno pretraživanje
+str:Pretražite…
+str:Izbriši upit
+str:Idi gore
+str:Odabir aplikacije
+str:Upit za pretraživanje
+str:UKLJUČENO
+str:Pretraživanje
+str:Idi na početnu
+str:Dijeljenje sa
+str:Dijeljenje sa: %s
+str:Prikaži sve
+str:Gotovo
+str:Pošalji upit
+str:अधिक पर्याय
+str:पूर्ण झाले
+str:मुख्‍यपृष्‍ठ नेव्‍हिगेट करा
+str:संक्षिप्त करा
+str:व्हॉइस शोध
+str:यांच्यासह सामायिक करा
+str:%s सह सामायिक करा
+str:एक अ‍ॅप निवडा
+str:शोधा…
+str:क्‍वेरी स्‍पष्‍ट करा
+str:वर नेव्‍हिगेट करा
+str:शोध
+str:क्वेरी सबमिट करा
+str:शोधा
+str:शोध क्वेरी
+str:सर्व पहा
+str:Прикажи све
+str:Гласовна претрага
+str:Одлазак на Почетну
+str:УКЉУЧИ
+str:Упит за претрагу
+str:Претражи
+str:Још опција
+str:ИСКЉУЧИ
+str:Дели са
+str:Слање упита
+str:Избор апликације
+str:Брисање упита
+str:Претражите...
+str:Дели са апликацијом %s
+str:Претрага
+str:Кретање нагоре
+str:Скупи
+str:Kretanje nagore
+str:Brisanje upita
+str:Pretražite...
+str:Pretraga
+str:Još opcija
+str:Glasovna pretraga
+str:Slanje upita
+str:Izbor aplikacije
+str:Odlazak na Početnu
+str:Deli sa
+str:Upit za pretragu
+str:Deli sa aplikacijom %s
+str:Skupi
+str:ISKLJUČI
+str:UKLJUČI
+str:Pretraži
+str:Sorguyu temizle
+str:Şununla paylaş
+str:Yukarı git
+str:Bitti
+str:KAPAT
+str:Ana ekrana git
+str:%s ile paylaş
+str:Diğer seçenekler
+str:Arama sorgusu
+str:Ara…
+str:Bir uygulama seçin
+str:Tümünü göster
+str:AÇ
+str:Sorguyu gönder
+str:Daralt
+str:Sesli arama
+str:Ara
+str:صوتی تلاش
+str:ایک ایپ منتخب کریں
+str:استفسار جمع کرائیں
+str:تلاش
+str:آن
+str:سبھی دیکھیں
+str:اشتراک کریں مع
+str:تلاش کریں…
+str:استفسار تلاش کریں
+str:‏%s کے ساتھ اشتراک کریں
+str:ہوم پر نیویگیٹ کریں
+str:مزید اختیارات
+str:آف
+str:استفسار صاف کریں
+str:ہو گیا
+str:اوپر نیویگیٹ کریں
+str:سکیڑیں
+str:تلاش کریں
+str:‎999+‎
+str:Navigiraj prema gore
+str:Podijeli sa
+str:Traži
+str:Obriši upit
+str:Pretraži upit
+str:Pretraživanje glasom
+str:Podijeli sa %s
+str:Više opcija
+str:Odaberite aplikaciju
+str:Vrati se na početnu stranicu
+str:Vidi sve
+str:Pretraži...
+str:Sdílet pomocí %s
+str:Přejít na plochu
+str:Více možností
+str:Vybrat aplikaci
+str:Vyhledat…
+str:Hlasové vyhledávání
+str:Vyhledávací dotaz
+str:Přejít nahoru
+str:Odeslat dotaz
+str:Sbalit
+str:Hledat
+str:Smazat dotaz
+str:Sdílet pomocí
+str:Zobrazit vše
+str:ZAPNUTO
+str:VYPNUTO
+str:%1$s, %2$s – %3$s
+str:Desplazarse hacia arriba
+str:Ir a la pantalla de inicio
+str:Consulta
+str:Seleccionar una aplicación
+str:ACTIVADO
+str:Ver todo
+str:DESACTIVADO
+str:Más opciones
+str:Listo
+str:Búsqueda por voz
+str:Fleiri valkostir
+str:Deila með %s
+str:Minnka
+str:Leita…
+str:Leita
+str:SLÖKKT
+str:KVEIKT
+str:Lokið
+str:Fara upp
+str:Fara heim
+str:Leitarfyrirspurn
+str:Hreinsa fyrirspurn
+str:Deila með
+str:Sjá allt
+str:Raddleit
+str:Veldu forrit
+str:Senda fyrirspurn
+str:Serah pertanyaan
+str:Carian suara
+str:Kosongkan pertanyaan
+str:Pertanyaan carian
+str:Pilih apl
+str:Navigasi ke atas
+str:Navigasi skrin utama
+str:HIDUP
+str:Cari
+str:Cari…
+str:Runtuhkan
+str:Kongsi dengan %s
+str:Lagi pilihan
+str:MATI
+str:Kongsi dengan
+str:Päringu esitamine
+str:Navigeerimine avaekraanile
+str:Häälotsing
+str:Jagamine:
+str:Päringu tühistamine
+str:Otsingupäring
+str:Ahendamine
+str:Navigeerimine üles
+str:SEES
+str:Valige rakendus
+str:Otsing
+str:Kuva kõik
+str:Jagamine kasutajaga %s
+str:Otsige …
+str:VÄLJAS
+str:Rohkem valikuid
+str:Ricerca
+str:Vai alla home page
+str:Altre opzioni
+str:Ricerca vocale
+str:Fine
+str:Query di ricerca
+str:Scegli un'applicazione
+str:Invia query
+str:Cancella query
+str:Vai in alto
+str:Condividi con %s
+str:Condividi con
+str:Visualizza tutte
+str:Comprimi
+str:Cerca…
+str:IŠJUNGTA
+str:Ieškoti...
+str:Peržiūrėti viską
+str:Sutraukti
+str:Paieška
+str:Bendrinti naudojant „%s“
+str:Išvalyti užklausą
+str:ĮJUNGTI
+str:Eiti į viršų
+str:Atlikta
+str:Bendrinti naudojant
+str:Eiti į pagrindinį puslapį
+str:Paieškos užklausa
+str:Pasirinkti programą
+str:Paieška balsu
+str:Daugiau parinkčių
+str:Pateikti užklausą
+str:DESATIVAR
+str:Recolher
+str:Compartilhar com %s
+str:ATIVAR
+str:Compartilhar com
+str:Selecione um app
+str:Consulta de pesquisa
+str:Mais opções
+str:Concluído
+str:Pesquisa por voz
+str:Ver tudo
+str:Pesquisar...
+str:Pesquisar
+str:Limpar consulta
+str:Navegar para a página inicial
+str:Navegar para cima
+str:Joan orri nagusira
+str:Partekatu hauekin
+str:Bidali kontsulta
+str:Eginda
+str:Aukeratu aplikazio bat
+str:Ahots bidezko bilaketa
+str:Tolestu
+str:Ikusi guztiak
+str:Bilatu…
+str:DESAKTIBATUTA
+str:Bilaketa-kontsulta
+str:Partekatu %s erabiltzailearekin
+str:Joan gora
+str:Garbitu kontsulta
+str:Bilatu
+str:Aukera gehiago
+str:AKTIBATUTA
+str:થઈ ગયું
+str:શોધો
+str:બંધ
+str:વધુ વિકલ્પો
+str:ઉપર નેવિગેટ કરો
+str:હોમ પર નેવિગેટ કરો
+str:શોધ ક્વેરી
+str:ચાલુ
+str:%s સાથે શેર કરો
+str:બધું જુઓ
+str:શોધો…
+str:સંકુચિત કરો
+str:વૉઇસ શોધ
+str:એક ઍપ્લિકેશન પસંદ કરો
+str:ક્વેરી સાફ કરો
+str:ક્વેરી સબમિટ કરો
+str:આની સાથે શેર કરો
+str:Lekérdezés törlése
+str:Válasszon ki egy alkalmazást
+str:Keresés
+str:Felfelé mozgatás
+str:Megosztás a következővel:
+str:Keresés…
+str:Összecsukás
+str:Hangalapú keresés
+str:Ugrás a főoldalra
+str:Megosztás a következővel: %s
+str:Keresési lekérdezés
+str:BE
+str:Összes megtekintése
+str:Kész
+str:Lekérdezés küldése
+str:További lehetőségek
+str:KI
+str:ОТКЛ.
+str:Выбрать приложение
+str:Показать все
+str:Поисковый запрос
+str:Голосовой поиск
+str:Перейти на главный экран
+str:Поиск
+str:Перейти вверх
+str:Открыть доступ пользователю %s
+str:Удалить запрос
+str:Открыть доступ
+str:Свернуть
+str:Другие параметры
+str:Отправить запрос
+str:VALIWE
+str:Khetha uhlelo lokusebenza
+str:Ukusesha ngezwi
+str:Umbuzo wosesho
+str:Goqa
+str:Zulazulela ekhaya
+str:Kwenziwe
+str:Zulazulela phezulu
+str:Yabelana no-%s
+str:Iyasesha...
+str:Hambisa umbuzo
+str:Sula inkinga
+str:Izinketho eziningi
+str:Yabelana no-
+str:Sesha
+str:Buka konke
+str:VULIWE
+str:Sakļaut
+str:Kopīgot ar %s
+str:Kopīgot ar:
+str:Pārvietoties augšup
+str:Meklēšanas vaicājums
+str:Meklējiet…
+str:IZSLĒGTS
+str:Skatīt visu
+str:Gatavs
+str:Iesniegt vaicājumu
+str:Meklēšana ar balsi
+str:Pārvietoties uz sākuma ekrānu
+str:Izvēlieties lietotni
+str:Vairāk opciju
+str:Meklēt
+str:IESLĒGTS
+str:Notīrīt vaicājumu
+str:Dela med
+str:Skicka fråga
+str:Klart
+str:Sök …
+str:Sök
+str:Komprimera
+str:Sökfråga
+str:Fler alternativ
+str:Navigera uppåt
+str:Visa alla
+str:Dela med %s
+str:Ta bort frågan
+str:Välj en app
+str:Visa startsidan
+str:Röstsökning
+str:שתף עם
+str:בחר אפליקציה
+str:כווץ
+str:חיפוש קולי
+str:‏שתף עם %s
+str:מחק שאילתה
+str:שלח שאילתה
+str:‏%1$s‏, %2$s
+str:כבוי
+str:‏%1$s‏, %2$s‏, %3$s
+str:נווט למעלה
+str:נווט לדף הבית
+str:עוד אפשרויות
+str:שאילתת חיפוש
+str:חפש
+str:חפש…
+str:פועל
+str:בוצע
+str:ראה הכל
+str:Chagua programu
+str:Nimemaliza
+str:Hoja ya utafutaji
+str:Tafuta
+str:Nenda mwanzo
+str:Shiriki na:
+str:IMEZIMWA
+str:Nenda juu
+str:Futa hoja
+str:Kunja
+str:Wasilisha hoja
+str:Angalia zote
+str:Tafuta…
+str:Shiriki na %s
+str:Chaguo zaidi
+str:IMEWASHWA
+str:Tafuta kwa kutamka
+str:Ձայնային որոնում
+str:Ուղարկել հարցումը
+str:ՄԻԱՑՎԱԾ
+str:Այլ ընտրանքներ
+str:Կիսվել %s-ի միջոցով
+str:Որոնման հարցում
+str:Որոնել
+str:Ուղղվել տուն
+str:Որոնում...
+str:Ընտրել ծրագիր
+str:Պատրաստ է
+str:Կիսվել
+str:ԱՆՋԱՏՎԱԾ
+str:Տեսնել բոլորը
+str:Ուղղվել վերև
+str:Մաքրել հարցումը
+str:Թաքցնել
+str:Үн аркылуу издөө
+str:Талап жөнөтүү
+str:ӨЧҮК
+str:Үйгө багыттоо
+str:Талаптарды тазалоо
+str:Жогору
+str:Жыйнап коюу
+str:Бардыгын көрүү
+str:Издөө…
+str:Көбүрөөк мүмкүнчүлүктөр
+str:Издөө
+str:КҮЙҮК
+str:Бөлүшүү
+str:Колдонмо тандоо
+str:%s аркылуу бөлүшүү
+str:Издөө талаптары
+str:Даяр
+str:မူလနေရာကို သွားရန်
+str:%1$s၊ %2$s
+str:မျှဝေဖို့ ရွေးပါ
+str:ပြီးဆုံးပါပြီ
+str:ခေါက်ရန်
+str:ရှာစရာ အချက်အလက်နေရာ
+str:ရှာဖွေရန်
+str:ပိုမိုရွေးချယ်စရာများ
+str:%1$s ၊ %2$s ၊ %3$s
+str:%s ကို မျှဝေပါရန်
+str:အားလုံးကို ကြည့်ရန်
+str:အသံဖြင့် ရှာဖွေခြင်း
+str:ရှာစရာ အချက်အလက်များ ဖယ်ရှားရန်
+str:အပေါ်သို့သွားရန်
+str:ဖွင့်
+str:ရှာဖွေစရာ အချက်အလက်ကို ပေးပို့ရန်
+str:အက်ပ်တစ်ခုခုကို ရွေးချယ်ပါ
+str:ရှာဖွေပါ
+str:ရှာဖွေပါ...
+str:ပိတ်
+str:၉၉၉+
+str:Axtarış...
+str:Sorğunu göndərin
+str:Tətbiq seçin
+str:AKTİV
+str:Yuxarı get
+str:Hamısına baxın
+str:Səsli axtarış
+str:Sorğunu təmizlə
+str:Axtarış
+str:Digər variantlar
+str:Dağıt
+str:Axtarış sorğusu
+str:DEAKTİV
+str:Bununla paylaşın
+str:Hazırdır
+str:Evə naviqasiya et
+str:Ovozli qidiruv
+str:Ruxsat berish
+str:O‘CHIQ
+str:Tayyor
+str:Boshiga o‘tish
+str:So‘rovni izlash
+str:Qidirish
+str:Yig‘ish
+str:So‘rovni tozalash
+str:%sga ruxsat berish
+str:Barchasini ko‘rish
+str:Boshqa parametrlar
+str:Yuqoriga o‘tish
+str:Dastur tanlang
+str:So‘rov yaratish
+str:Qidirish…
+str:YONIQ
+str:Partager
+str:Voir toutes les chaînes
+str:Sélectionnez une application
+str:Terminé
+str:Recherche en cours...
+str:999 +
+str:顯示全部
+str:瀏覽主頁
+str:%1$s (%2$s)：%3$s
+str:分享對象
+str:%1$s：%2$s
+str:完成
+str:開啟
+str:關閉
+str:搜尋查詢
+str:更多選項
+str:與「%s」分享
+str:搜尋…
+str:選擇應用程式
+str:搜尋
+str:語音搜尋
+str:清除查詢
+str:提交查詢
+str:收合
+str:向上瀏覽
+str:搜索
+str:转到上一层级
+str:分享方式
+str:收起
+str:语音搜索
+str:提交查询
+str:清除查询
+str:转到主屏幕
+str:搜索…
+str:通过%s分享
+str:更多选项
+str:搜索查询
+str:开启
+str:关闭
+str:选择应用
+str:查看全部
+str:%1$s - %2$s：%3$s
+str:Navegar hacia arriba
+str:Eliminar la consulta
+str:Navegar a la página principal
+str:Elige una aplicación.
+str:Búsqueda
+str:Partilhar com
+str:Reduzir
+str:Partilhar com %s
+str:DESATIVADO
+str:ATIVADO
+str:Escolher uma aplicação
+str:選擇分享對象
+str:瀏覽首頁
+=================== res_string_pool_header end ========================
+
+
+========================= res_package start =========================
+res_chunk_header type: 0x200
+res_chunk_header header size: 288
+res_chunk_header size: 177496
+package id : 127
+package name: c o m . g u o l e i . p l u g i n _ 1                                                                                                                                                                                                                           
+type string: 288
+key string： 464
+========================= res_package end   =========================
+
+
+======================== type_string_pool start =====================
+res_chunk_header type: 0x1
+res_chunk_header header size: 28
+res_chunk_header size: 176
+flags:0x100
+str:attr
+str:drawable
+str:mipmap
+str:layout
+str:anim
+str:string
+str:dimen
+str:style
+str:bool
+str:color
+str:id
+str:integer
+======================== type_string_pool end========================
+
+
+======================== key_string_pool start =====================
+res_chunk_header type: 0x1
+res_chunk_header header size: 28
+res_chunk_header size: 41044
+flags:0x100
+str:constraintSet
+str:drawerArrowStyle
+str:height
+str:isLightTheme
+str:layout_constraintBaseline_creator
+str:layout_constraintBaseline_toBaselineOf
+str:layout_constraintBottom_creator
+str:layout_constraintBottom_toBottomOf
+str:layout_constraintBottom_toTopOf
+str:layout_constraintDimensionRatio
+str:layout_constraintEnd_toEndOf
+str:layout_constraintEnd_toStartOf
+str:layout_constraintGuide_begin
+str:layout_constraintGuide_end
+str:layout_constraintGuide_percent
+str:layout_constraintHeight_default
+str:layout_constraintHeight_max
+str:layout_constraintHeight_min
+str:layout_constraintHorizontal_bias
+str:layout_constraintHorizontal_chainStyle
+str:layout_constraintHorizontal_weight
+str:layout_constraintLeft_creator
+str:layout_constraintLeft_toLeftOf
+str:layout_constraintLeft_toRightOf
+str:layout_constraintRight_creator
+str:layout_constraintRight_toLeftOf
+str:layout_constraintRight_toRightOf
+str:layout_constraintStart_toEndOf
+str:layout_constraintStart_toStartOf
+str:layout_constraintTop_creator
+str:layout_constraintTop_toBottomOf
+str:layout_constraintTop_toTopOf
+str:layout_constraintVertical_bias
+str:layout_constraintVertical_chainStyle
+str:layout_constraintVertical_weight
+str:layout_constraintWidth_default
+str:layout_constraintWidth_max
+str:layout_constraintWidth_min
+str:layout_editor_absoluteX
+str:layout_editor_absoluteY
+str:layout_goneMarginBottom
+str:layout_goneMarginEnd
+str:layout_goneMarginLeft
+str:layout_goneMarginRight
+str:layout_goneMarginStart
+str:layout_goneMarginTop
+str:layout_optimizationLevel
+str:title
+str:navigationMode
+str:displayOptions
+str:subtitle
+str:titleTextStyle
+str:subtitleTextStyle
+str:icon
+str:logo
+str:divider
+str:background
+str:backgroundStacked
+str:backgroundSplit
+str:customNavigationLayout
+str:homeLayout
+str:progressBarStyle
+str:indeterminateProgressStyle
+str:progressBarPadding
+str:itemPadding
+str:hideOnContentScroll
+str:contentInsetStart
+str:contentInsetEnd
+str:contentInsetLeft
+str:contentInsetRight
+str:contentInsetStartWithNavigation
+str:contentInsetEndWithActions
+str:elevation
+str:popupTheme
+str:closeItemLayout
+str:initialActivityCount
+str:expandActivityOverflowButtonDrawable
+str:buttonPanelSideLayout
+str:listLayout
+str:multiChoiceItemLayout
+str:singleChoiceItemLayout
+str:listItemLayout
+str:showTitle
+str:srcCompat
+str:tint
+str:tintMode
+str:tickMark
+str:tickMarkTint
+str:tickMarkTintMode
+str:textAllCaps
+str:autoSizeTextType
+str:autoSizeStepGranularity
+str:autoSizePresetSizes
+str:autoSizeMinTextSize
+str:autoSizeMaxTextSize
+str:fontFamily
+str:windowActionBar
+str:windowNoTitle
+str:windowActionBarOverlay
+str:windowActionModeOverlay
+str:windowFixedWidthMajor
+str:windowFixedHeightMinor
+str:windowFixedWidthMinor
+str:windowFixedHeightMajor
+str:windowMinWidthMajor
+str:windowMinWidthMinor
+str:actionBarTabStyle
+str:actionBarTabBarStyle
+str:actionBarTabTextStyle
+str:actionOverflowButtonStyle
+str:actionOverflowMenuStyle
+str:actionBarPopupTheme
+str:actionBarStyle
+str:actionBarSplitStyle
+str:actionBarTheme
+str:actionBarWidgetTheme
+str:actionBarSize
+str:actionBarDivider
+str:actionBarItemBackground
+str:actionMenuTextAppearance
+str:actionMenuTextColor
+str:actionModeStyle
+str:actionModeCloseButtonStyle
+str:actionModeBackground
+str:actionModeSplitBackground
+str:actionModeCloseDrawable
+str:actionModeCutDrawable
+str:actionModeCopyDrawable
+str:actionModePasteDrawable
+str:actionModeSelectAllDrawable
+str:actionModeShareDrawable
+str:actionModeFindDrawable
+str:actionModeWebSearchDrawable
+str:actionModePopupWindowStyle
+str:textAppearanceLargePopupMenu
+str:textAppearanceSmallPopupMenu
+str:textAppearancePopupMenuHeader
+str:dialogTheme
+str:dialogPreferredPadding
+str:listDividerAlertDialog
+str:actionDropDownStyle
+str:dropdownListPreferredItemHeight
+str:spinnerDropDownItemStyle
+str:homeAsUpIndicator
+str:actionButtonStyle
+str:buttonBarStyle
+str:buttonBarButtonStyle
+str:selectableItemBackground
+str:selectableItemBackgroundBorderless
+str:borderlessButtonStyle
+str:dividerVertical
+str:dividerHorizontal
+str:activityChooserViewStyle
+str:toolbarStyle
+str:toolbarNavigationButtonStyle
+str:popupMenuStyle
+str:popupWindowStyle
+str:editTextColor
+str:editTextBackground
+str:imageButtonStyle
+str:textAppearanceSearchResultTitle
+str:textAppearanceSearchResultSubtitle
+str:textColorSearchUrl
+str:searchViewStyle
+str:listPreferredItemHeight
+str:listPreferredItemHeightSmall
+str:listPreferredItemHeightLarge
+str:listPreferredItemPaddingLeft
+str:listPreferredItemPaddingRight
+str:dropDownListViewStyle
+str:listPopupWindowStyle
+str:textAppearanceListItem
+str:textAppearanceListItemSecondary
+str:textAppearanceListItemSmall
+str:panelBackground
+str:panelMenuListWidth
+str:panelMenuListTheme
+str:listChoiceBackgroundIndicator
+str:colorPrimary
+str:colorPrimaryDark
+str:colorAccent
+str:colorControlNormal
+str:colorControlActivated
+str:colorControlHighlight
+str:colorButtonNormal
+str:colorSwitchThumbNormal
+str:controlBackground
+str:colorBackgroundFloating
+str:alertDialogStyle
+str:alertDialogButtonGroupStyle
+str:alertDialogCenterButtons
+str:alertDialogTheme
+str:textColorAlertDialogListItem
+str:buttonBarPositiveButtonStyle
+str:buttonBarNegativeButtonStyle
+str:buttonBarNeutralButtonStyle
+str:autoCompleteTextViewStyle
+str:buttonStyle
+str:buttonStyleSmall
+str:checkboxStyle
+str:checkedTextViewStyle
+str:editTextStyle
+str:radioButtonStyle
+str:ratingBarStyle
+str:ratingBarStyleIndicator
+str:ratingBarStyleSmall
+str:seekBarStyle
+str:spinnerStyle
+str:switchStyle
+str:listMenuViewStyle
+str:tooltipFrameBackground
+str:tooltipForegroundColor
+str:colorError
+str:allowStacking
+str:alpha
+str:buttonTint
+str:buttonTintMode
+str:color
+str:spinBars
+str:drawableSize
+str:gapBetweenBars
+str:arrowHeadLength
+str:arrowShaftLength
+str:barLength
+str:thickness
+str:fontProviderAuthority
+str:fontProviderPackage
+str:fontProviderQuery
+str:fontProviderCerts
+str:fontProviderFetchStrategy
+str:fontProviderFetchTimeout
+str:fontStyle
+str:font
+str:fontWeight
+str:measureWithLargestChild
+str:showDividers
+str:dividerPadding
+str:alphabeticModifiers
+str:numericModifiers
+str:showAsAction
+str:actionLayout
+str:actionViewClass
+str:actionProviderClass
+str:contentDescription
+str:tooltipText
+str:iconTint
+str:iconTintMode
+str:preserveIconSpacing
+str:subMenuArrow
+str:overlapAnchor
+str:state_above_anchor
+str:paddingBottomNoButtons
+str:paddingTopNoTitle
+str:layout
+str:iconifiedByDefault
+str:queryHint
+str:defaultQueryHint
+str:closeIcon
+str:goIcon
+str:searchIcon
+str:searchHintIcon
+str:voiceIcon
+str:commitIcon
+str:suggestionRowLayout
+str:queryBackground
+str:submitBackground
+str:thumbTint
+str:thumbTintMode
+str:track
+str:trackTint
+str:trackTintMode
+str:thumbTextPadding
+str:switchTextAppearance
+str:switchMinWidth
+str:switchPadding
+str:splitTrack
+str:showText
+str:titleTextAppearance
+str:subtitleTextAppearance
+str:titleMargin
+str:titleMarginStart
+str:titleMarginEnd
+str:titleMarginTop
+str:titleMarginBottom
+str:titleMargins
+str:maxButtonHeight
+str:buttonGravity
+str:collapseIcon
+str:collapseContentDescription
+str:navigationIcon
+str:navigationContentDescription
+str:logoDescription
+str:titleTextColor
+str:subtitleTextColor
+str:paddingStart
+str:paddingEnd
+str:theme
+str:backgroundTint
+str:backgroundTintMode
+str:abc_ab_share_pack_mtrl_alpha
+str:abc_action_bar_item_background_material
+str:abc_btn_borderless_material
+str:abc_btn_check_material
+str:abc_btn_check_to_on_mtrl_000
+str:abc_btn_check_to_on_mtrl_015
+str:abc_btn_colored_material
+str:abc_btn_default_mtrl_shape
+str:abc_btn_radio_material
+str:abc_btn_radio_to_on_mtrl_000
+str:abc_btn_radio_to_on_mtrl_015
+str:abc_btn_switch_to_on_mtrl_00001
+str:abc_btn_switch_to_on_mtrl_00012
+str:abc_cab_background_internal_bg
+str:abc_cab_background_top_material
+str:abc_cab_background_top_mtrl_alpha
+str:abc_control_background_material
+str:abc_dialog_material_background
+str:abc_edit_text_material
+str:abc_ic_ab_back_material
+str:abc_ic_arrow_drop_right_black_24dp
+str:abc_ic_clear_material
+str:abc_ic_commit_search_api_mtrl_alpha
+str:abc_ic_go_search_api_material
+str:abc_ic_menu_copy_mtrl_am_alpha
+str:abc_ic_menu_cut_mtrl_alpha
+str:abc_ic_menu_overflow_material
+str:abc_ic_menu_paste_mtrl_am_alpha
+str:abc_ic_menu_selectall_mtrl_alpha
+str:abc_ic_menu_share_mtrl_alpha
+str:abc_ic_search_api_material
+str:abc_ic_star_black_16dp
+str:abc_ic_star_black_36dp
+str:abc_ic_star_black_48dp
+str:abc_ic_star_half_black_16dp
+str:abc_ic_star_half_black_36dp
+str:abc_ic_star_half_black_48dp
+str:abc_ic_voice_search_api_material
+str:abc_item_background_holo_dark
+str:abc_item_background_holo_light
+str:abc_list_divider_mtrl_alpha
+str:abc_list_focused_holo
+str:abc_list_longpressed_holo
+str:abc_list_pressed_holo_dark
+str:abc_list_pressed_holo_light
+str:abc_list_selector_background_transition_holo_dark
+str:abc_list_selector_background_transition_holo_light
+str:abc_list_selector_disabled_holo_dark
+str:abc_list_selector_disabled_holo_light
+str:abc_list_selector_holo_dark
+str:abc_list_selector_holo_light
+str:abc_menu_hardkey_panel_mtrl_mult
+str:abc_popup_background_mtrl_mult
+str:abc_ratingbar_indicator_material
+str:abc_ratingbar_material
+str:abc_ratingbar_small_material
+str:abc_scrubber_control_off_mtrl_alpha
+str:abc_scrubber_control_to_pressed_mtrl_000
+str:abc_scrubber_control_to_pressed_mtrl_005
+str:abc_scrubber_primary_mtrl_alpha
+str:abc_scrubber_track_mtrl_alpha
+str:abc_seekbar_thumb_material
+str:abc_seekbar_tick_mark_material
+str:abc_seekbar_track_material
+str:abc_spinner_mtrl_am_alpha
+str:abc_spinner_textfield_background_material
+str:abc_switch_thumb_material
+str:abc_switch_track_mtrl_alpha
+str:abc_tab_indicator_material
+str:abc_tab_indicator_mtrl_alpha
+str:abc_text_cursor_material
+str:abc_text_select_handle_left_mtrl_dark
+str:abc_text_select_handle_left_mtrl_light
+str:abc_text_select_handle_middle_mtrl_dark
+str:abc_text_select_handle_middle_mtrl_light
+str:abc_text_select_handle_right_mtrl_dark
+str:abc_text_select_handle_right_mtrl_light
+str:abc_textfield_activated_mtrl_alpha
+str:abc_textfield_default_mtrl_alpha
+str:abc_textfield_search_activated_mtrl_alpha
+str:abc_textfield_search_default_mtrl_alpha
+str:abc_textfield_search_material
+str:abc_vector_test
+str:ic_launcher_background
+str:ic_launcher_foreground
+str:notification_action_background
+str:notification_bg
+str:notification_bg_low
+str:notification_bg_low_normal
+str:notification_bg_low_pressed
+str:notification_bg_normal
+str:notification_bg_normal_pressed
+str:notification_icon_background
+str:notification_tile_bg
+str:notify_panel_notification_icon_bg
+str:tooltip_frame_dark
+str:tooltip_frame_light
+str:notification_template_icon_bg
+str:notification_template_icon_low_bg
+str:ic_launcher_foreground_1
+str:ic_launcher
+str:ic_launcher_round
+str:abc_action_bar_title_item
+str:abc_action_bar_up_container
+str:abc_action_bar_view_list_nav_layout
+str:abc_action_menu_item_layout
+str:abc_action_menu_layout
+str:abc_action_mode_bar
+str:abc_action_mode_close_item_material
+str:abc_activity_chooser_view
+str:abc_activity_chooser_view_list_item
+str:abc_alert_dialog_button_bar_material
+str:abc_alert_dialog_material
+str:abc_alert_dialog_title_material
+str:abc_dialog_title_material
+str:abc_expanded_menu_layout
+str:abc_list_menu_item_checkbox
+str:abc_list_menu_item_icon
+str:abc_list_menu_item_layout
+str:abc_list_menu_item_radio
+str:abc_popup_menu_header_item_layout
+str:abc_popup_menu_item_layout
+str:abc_screen_content_include
+str:abc_screen_simple
+str:abc_screen_simple_overlay_action_mode
+str:abc_screen_toolbar
+str:abc_search_dropdown_item_icons_2line
+str:abc_search_view
+str:abc_select_dialog_material
+str:activity_plugin
+str:notification_action
+str:notification_action_tombstone
+str:notification_media_action
+str:notification_media_cancel_action
+str:notification_template_big_media
+str:notification_template_big_media_custom
+str:notification_template_big_media_narrow
+str:notification_template_big_media_narrow_custom
+str:notification_template_custom_big
+str:notification_template_icon_group
+str:notification_template_lines_media
+str:notification_template_media
+str:notification_template_media_custom
+str:notification_template_part_chronometer
+str:notification_template_part_time
+str:select_dialog_item_material
+str:select_dialog_multichoice_material
+str:select_dialog_singlechoice_material
+str:support_simple_spinner_dropdown_item
+str:tooltip
+str:abc_fade_in
+str:abc_fade_out
+str:abc_grow_fade_in_from_bottom
+str:abc_popup_enter
+str:abc_popup_exit
+str:abc_shrink_fade_out_from_bottom
+str:abc_slide_in_bottom
+str:abc_slide_in_top
+str:abc_slide_out_bottom
+str:abc_slide_out_top
+str:tooltip_enter
+str:tooltip_exit
+str:abc_action_bar_home_description
+str:abc_action_bar_home_description_format
+str:abc_action_bar_home_subtitle_description_format
+str:abc_action_bar_up_description
+str:abc_action_menu_overflow_description
+str:abc_action_mode_done
+str:abc_activity_chooser_view_see_all
+str:abc_activitychooserview_choose_application
+str:abc_capital_off
+str:abc_capital_on
+str:abc_search_hint
+str:abc_searchview_description_clear
+str:abc_searchview_description_query
+str:abc_searchview_description_search
+str:abc_searchview_description_submit
+str:abc_searchview_description_voice
+str:abc_shareactionprovider_share_with
+str:abc_shareactionprovider_share_with_application
+str:abc_toolbar_collapse_description
+str:search_menu_title
+str:status_bar_notification_info_overflow
+str:abc_font_family_body_1_material
+str:abc_font_family_body_2_material
+str:abc_font_family_button_material
+str:abc_font_family_caption_material
+str:abc_font_family_display_1_material
+str:abc_font_family_display_2_material
+str:abc_font_family_display_3_material
+str:abc_font_family_display_4_material
+str:abc_font_family_headline_material
+str:abc_font_family_menu_material
+str:abc_font_family_subhead_material
+str:abc_font_family_title_material
+str:app_name
+str:abc_alert_dialog_button_bar_height
+str:abc_action_bar_default_height_material
+str:abc_action_bar_progress_bar_size
+str:abc_text_size_subtitle_material_toolbar
+str:abc_text_size_title_material_toolbar
+str:abc_config_prefDialogWidth
+str:abc_dialog_fixed_height_major
+str:abc_dialog_fixed_height_minor
+str:abc_dialog_fixed_width_major
+str:abc_dialog_fixed_width_minor
+str:abc_dialog_min_width_major
+str:abc_dialog_min_width_minor
+str:abc_action_bar_content_inset_material
+str:abc_action_bar_content_inset_with_nav
+str:abc_action_bar_default_padding_end_material
+str:abc_action_bar_default_padding_start_material
+str:notification_right_side_padding_top
+str:abc_switch_padding
+str:notification_content_margin_start
+str:notification_main_column_padding_top
+str:notification_media_narrow_margin
+str:abc_action_bar_elevation_material
+str:abc_action_bar_icon_vertical_padding_material
+str:abc_action_bar_overflow_padding_end_material
+str:abc_action_bar_overflow_padding_start_material
+str:abc_action_bar_stacked_max_height
+str:abc_action_bar_stacked_tab_max_width
+str:abc_action_bar_subtitle_bottom_margin_material
+str:abc_action_bar_subtitle_top_margin_material
+str:abc_action_button_min_height_material
+str:abc_action_button_min_width_material
+str:abc_action_button_min_width_overflow_material
+str:abc_button_inset_horizontal_material
+str:abc_button_inset_vertical_material
+str:abc_button_padding_horizontal_material
+str:abc_button_padding_vertical_material
+str:abc_cascading_menus_min_smallest_width
+str:abc_control_corner_material
+str:abc_control_inset_material
+str:abc_control_padding_material
+str:abc_dialog_list_padding_bottom_no_buttons
+str:abc_dialog_list_padding_top_no_title
+str:abc_dialog_padding_material
+str:abc_dialog_padding_top_material
+str:abc_dialog_title_divider_material
+str:abc_disabled_alpha_material_dark
+str:abc_disabled_alpha_material_light
+str:abc_dropdownitem_icon_width
+str:abc_dropdownitem_text_padding_left
+str:abc_dropdownitem_text_padding_right
+str:abc_edit_text_inset_bottom_material
+str:abc_edit_text_inset_horizontal_material
+str:abc_edit_text_inset_top_material
+str:abc_floating_window_z
+str:abc_list_item_padding_horizontal_material
+str:abc_panel_menu_list_width
+str:abc_progress_bar_height_material
+str:abc_search_view_preferred_height
+str:abc_search_view_preferred_width
+str:abc_seekbar_track_background_height_material
+str:abc_seekbar_track_progress_height_material
+str:abc_select_dialog_padding_start_material
+str:abc_text_size_body_1_material
+str:abc_text_size_body_2_material
+str:abc_text_size_button_material
+str:abc_text_size_caption_material
+str:abc_text_size_display_1_material
+str:abc_text_size_display_2_material
+str:abc_text_size_display_3_material
+str:abc_text_size_display_4_material
+str:abc_text_size_headline_material
+str:abc_text_size_large_material
+str:abc_text_size_medium_material
+str:abc_text_size_menu_header_material
+str:abc_text_size_menu_material
+str:abc_text_size_small_material
+str:abc_text_size_subhead_material
+str:abc_text_size_title_material
+str:compat_button_inset_horizontal_material
+str:compat_button_inset_vertical_material
+str:compat_button_padding_horizontal_material
+str:compat_button_padding_vertical_material
+str:compat_control_corner_material
+str:disabled_alpha_material_dark
+str:disabled_alpha_material_light
+str:highlight_alpha_material_colored
+str:highlight_alpha_material_dark
+str:highlight_alpha_material_light
+str:hint_alpha_material_dark
+str:hint_alpha_material_light
+str:hint_pressed_alpha_material_dark
+str:hint_pressed_alpha_material_light
+str:notification_action_icon_size
+str:notification_action_text_size
+str:notification_big_circle_margin
+str:notification_large_icon_height
+str:notification_large_icon_width
+str:notification_right_icon_size
+str:notification_small_icon_background_padding
+str:notification_small_icon_size_as_large
+str:notification_subtext_size
+str:notification_top_pad
+str:notification_top_pad_large_text
+str:tooltip_corner_radius
+str:tooltip_horizontal_padding
+str:tooltip_margin
+str:tooltip_precise_anchor_extra_offset
+str:tooltip_precise_anchor_threshold
+str:tooltip_vertical_padding
+str:tooltip_y_offset_non_touch
+str:tooltip_y_offset_touch
+str:Base.Widget.AppCompat.DrawerArrowToggle
+str:Base.Theme.AppCompat.DialogWhenLarge
+str:Base.Theme.AppCompat.Light.DialogWhenLarge
+str:Base.Widget.AppCompat.Spinner.Underlined
+str:Theme.AppCompat.DayNight
+str:Theme.AppCompat.DayNight.DarkActionBar
+str:Theme.AppCompat.DayNight.Dialog
+str:Theme.AppCompat.DayNight.Dialog.Alert
+str:Theme.AppCompat.DayNight.Dialog.MinWidth
+str:Theme.AppCompat.DayNight.DialogWhenLarge
+str:Theme.AppCompat.DayNight.NoActionBar
+str:Base.TextAppearance.AppCompat.Inverse
+str:Base.TextAppearance.AppCompat.Large.Inverse
+str:Base.TextAppearance.AppCompat.Medium.Inverse
+str:Base.TextAppearance.AppCompat.Small.Inverse
+str:Base.TextAppearance.AppCompat.Subhead.Inverse
+str:Base.TextAppearance.AppCompat.Title.Inverse
+str:Base.Theme.AppCompat.Dialog
+str:Base.Theme.AppCompat.Dialog.Alert
+str:Base.Theme.AppCompat.Dialog.MinWidth
+str:Base.Theme.AppCompat.Light.Dialog
+str:Base.Theme.AppCompat.Light.Dialog.Alert
+str:Base.Theme.AppCompat.Light.Dialog.MinWidth
+str:Base.ThemeOverlay.AppCompat.Dialog
+str:Base.ThemeOverlay.AppCompat.Dialog.Alert
+str:Base.V11.Theme.AppCompat.Dialog
+str:Base.V11.Theme.AppCompat.Light.Dialog
+str:Base.V11.ThemeOverlay.AppCompat.Dialog
+str:Base.Widget.AppCompat.ProgressBar
+str:Base.Widget.AppCompat.ProgressBar.Horizontal
+str:Platform.AppCompat
+str:Platform.AppCompat.Light
+str:Platform.V11.AppCompat
+str:Platform.V11.AppCompat.Light
+str:Platform.Widget.AppCompat.Spinner
+str:Base.V12.Widget.AppCompat.AutoCompleteTextView
+str:Base.V12.Widget.AppCompat.EditText
+str:Base.Widget.AppCompat.AutoCompleteTextView
+str:Base.Widget.AppCompat.EditText
+str:Base.TextAppearance.AppCompat.Button
+str:Platform.V14.AppCompat
+str:Platform.V14.AppCompat.Light
+str:TextAppearance.AppCompat.Tooltip
+str:RtlOverlay.DialogWindowTitle.AppCompat
+str:RtlOverlay.Widget.AppCompat.ActionBar.TitleItem
+str:RtlOverlay.Widget.AppCompat.DialogTitle.Icon
+str:RtlOverlay.Widget.AppCompat.PopupMenuItem
+str:RtlOverlay.Widget.AppCompat.PopupMenuItem.InternalGroup
+str:RtlOverlay.Widget.AppCompat.PopupMenuItem.Text
+str:RtlOverlay.Widget.AppCompat.Search.DropDown
+str:RtlOverlay.Widget.AppCompat.Search.DropDown.Icon1
+str:RtlOverlay.Widget.AppCompat.Search.DropDown.Icon2
+str:RtlOverlay.Widget.AppCompat.Search.DropDown.Query
+str:RtlOverlay.Widget.AppCompat.Search.DropDown.Text
+str:RtlOverlay.Widget.AppCompat.SearchView.MagIcon
+str:RtlUnderlay.Widget.AppCompat.ActionButton
+str:RtlUnderlay.Widget.AppCompat.ActionButton.Overflow
+str:Base.TextAppearance.AppCompat
+str:Base.TextAppearance.AppCompat.Body1
+str:Base.TextAppearance.AppCompat.Body2
+str:Base.TextAppearance.AppCompat.Caption
+str:Base.TextAppearance.AppCompat.Display1
+str:Base.TextAppearance.AppCompat.Display2
+str:Base.TextAppearance.AppCompat.Display3
+str:Base.TextAppearance.AppCompat.Display4
+str:Base.TextAppearance.AppCompat.Headline
+str:Base.TextAppearance.AppCompat.Large
+str:Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Large
+str:Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small
+str:Base.TextAppearance.AppCompat.Medium
+str:Base.TextAppearance.AppCompat.Menu
+str:Base.TextAppearance.AppCompat.SearchResult.Subtitle
+str:Base.TextAppearance.AppCompat.SearchResult.Title
+str:Base.TextAppearance.AppCompat.Small
+str:Base.TextAppearance.AppCompat.Subhead
+str:Base.TextAppearance.AppCompat.Title
+str:Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle
+str:Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse
+str:Base.TextAppearance.AppCompat.Widget.ActionBar.Title
+str:Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse
+str:Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle
+str:Base.TextAppearance.AppCompat.Widget.ActionMode.Title
+str:Base.TextAppearance.AppCompat.Widget.Button
+str:Base.TextAppearance.AppCompat.Widget.PopupMenu.Header
+str:Base.TextAppearance.AppCompat.Widget.PopupMenu.Large
+str:Base.TextAppearance.AppCompat.Widget.PopupMenu.Small
+str:Base.TextAppearance.AppCompat.Widget.Switch
+str:Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem
+str:Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle
+str:Base.TextAppearance.Widget.AppCompat.Toolbar.Title
+str:Base.Theme.AppCompat
+str:Base.Theme.AppCompat.Light
+str:Base.V21.Theme.AppCompat
+str:Base.V21.Theme.AppCompat.Dialog
+str:Base.V21.Theme.AppCompat.Light
+str:Base.V21.Theme.AppCompat.Light.Dialog
+str:Base.V21.ThemeOverlay.AppCompat.Dialog
+str:Base.Widget.AppCompat.ActionBar.TabText
+str:Base.Widget.AppCompat.ActionBar.TabView
+str:Base.Widget.AppCompat.ActionButton
+str:Base.Widget.AppCompat.ActionButton.CloseMode
+str:Base.Widget.AppCompat.ActionButton.Overflow
+str:Base.Widget.AppCompat.Button
+str:Base.Widget.AppCompat.Button.Borderless
+str:Base.Widget.AppCompat.Button.Borderless.Colored
+str:Base.Widget.AppCompat.Button.Small
+str:Base.Widget.AppCompat.ButtonBar
+str:Base.Widget.AppCompat.CompoundButton.CheckBox
+str:Base.Widget.AppCompat.CompoundButton.RadioButton
+str:Base.Widget.AppCompat.DropDownItem.Spinner
+str:Base.Widget.AppCompat.ImageButton
+str:Base.Widget.AppCompat.Light.ActionBar.TabText
+str:Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse
+str:Base.Widget.AppCompat.Light.ActionBar.TabView
+str:Base.Widget.AppCompat.Light.PopupMenu
+str:Base.Widget.AppCompat.Light.PopupMenu.Overflow
+str:Base.Widget.AppCompat.ListPopupWindow
+str:Base.Widget.AppCompat.ListView
+str:Base.Widget.AppCompat.ListView.DropDown
+str:Base.Widget.AppCompat.ListView.Menu
+str:Base.Widget.AppCompat.PopupMenu
+str:Base.Widget.AppCompat.PopupMenu.Overflow
+str:Base.Widget.AppCompat.RatingBar
+str:Base.Widget.AppCompat.SeekBar
+str:Base.Widget.AppCompat.Spinner
+str:Base.Widget.AppCompat.TextView.SpinnerItem
+str:Base.Widget.AppCompat.Toolbar.Button.Navigation
+str:Platform.ThemeOverlay.AppCompat
+str:Platform.ThemeOverlay.AppCompat.Dark
+str:Platform.ThemeOverlay.AppCompat.Light
+str:Platform.V21.AppCompat
+str:Platform.V21.AppCompat.Light
+str:TextAppearance.AppCompat.Notification
+str:TextAppearance.AppCompat.Notification.Info
+str:TextAppearance.AppCompat.Notification.Info.Media
+str:TextAppearance.AppCompat.Notification.Media
+str:TextAppearance.AppCompat.Notification.Time
+str:TextAppearance.AppCompat.Notification.Time.Media
+str:TextAppearance.AppCompat.Notification.Title
+str:TextAppearance.AppCompat.Notification.Title.Media
+str:TextAppearance.Compat.Notification
+str:TextAppearance.Compat.Notification.Info
+str:TextAppearance.Compat.Notification.Info.Media
+str:TextAppearance.Compat.Notification.Media
+str:TextAppearance.Compat.Notification.Time
+str:TextAppearance.Compat.Notification.Time.Media
+str:TextAppearance.Compat.Notification.Title
+str:TextAppearance.Compat.Notification.Title.Media
+str:Widget.Compat.NotificationActionContainer
+str:Widget.Compat.NotificationActionText
+str:Base.V22.Theme.AppCompat
+str:Base.V22.Theme.AppCompat.Light
+str:Base.TextAppearance.AppCompat.Widget.ActionBar.Menu
+str:Base.TextAppearance.AppCompat.Widget.Button.Inverse
+str:Base.V23.Theme.AppCompat
+str:Base.V23.Theme.AppCompat.Light
+str:Base.Widget.AppCompat.Button.Colored
+str:Base.Widget.AppCompat.RatingBar.Indicator
+str:Base.Widget.AppCompat.RatingBar.Small
+str:Base.TextAppearance.AppCompat.Widget.Button.Borderless.Colored
+str:Base.TextAppearance.AppCompat.Widget.Button.Colored
+str:Platform.V25.AppCompat
+str:Platform.V25.AppCompat.Light
+str:Base.V26.Theme.AppCompat
+str:Base.V26.Theme.AppCompat.Light
+str:Base.V26.Widget.AppCompat.Toolbar
+str:Base.Widget.AppCompat.Toolbar
+str:AlertDialog.AppCompat
+str:AlertDialog.AppCompat.Light
+str:Animation.AppCompat.Dialog
+str:Animation.AppCompat.DropDownUp
+str:Animation.AppCompat.Tooltip
+str:AppTheme
+str:Base.AlertDialog.AppCompat
+str:Base.AlertDialog.AppCompat.Light
+str:Base.Animation.AppCompat.Dialog
+str:Base.Animation.AppCompat.DropDownUp
+str:Base.Animation.AppCompat.Tooltip
+str:Base.DialogWindowTitle.AppCompat
+str:Base.DialogWindowTitleBackground.AppCompat
+str:Base.TextAppearance.AppCompat.SearchResult
+str:Base.TextAppearance.AppCompat.Tooltip
+str:Base.TextAppearance.AppCompat.Widget.DropDownItem
+str:Base.TextAppearance.Widget.AppCompat.ExpandedMenu.Item
+str:Base.Theme.AppCompat.CompactMenu
+str:Base.Theme.AppCompat.Dialog.FixedSize
+str:Base.Theme.AppCompat.Light.DarkActionBar
+str:Base.Theme.AppCompat.Light.Dialog.FixedSize
+str:Base.ThemeOverlay.AppCompat
+str:Base.ThemeOverlay.AppCompat.ActionBar
+str:Base.ThemeOverlay.AppCompat.Dark
+str:Base.ThemeOverlay.AppCompat.Dark.ActionBar
+str:Base.ThemeOverlay.AppCompat.Light
+str:Base.V7.Theme.AppCompat
+str:Base.V7.Theme.AppCompat.Dialog
+str:Base.V7.Theme.AppCompat.Light
+str:Base.V7.Theme.AppCompat.Light.Dialog
+str:Base.V7.ThemeOverlay.AppCompat.Dialog
+str:Base.V7.Widget.AppCompat.AutoCompleteTextView
+str:Base.V7.Widget.AppCompat.EditText
+str:Base.V7.Widget.AppCompat.Toolbar
+str:Base.Widget.AppCompat.ActionBar
+str:Base.Widget.AppCompat.ActionBar.Solid
+str:Base.Widget.AppCompat.ActionBar.TabBar
+str:Base.Widget.AppCompat.ActionMode
+str:Base.Widget.AppCompat.ActivityChooserView
+str:Base.Widget.AppCompat.Button.ButtonBar.AlertDialog
+str:Base.Widget.AppCompat.ButtonBar.AlertDialog
+str:Base.Widget.AppCompat.CompoundButton.Switch
+str:Base.Widget.AppCompat.DrawerArrowToggle.Common
+str:Base.Widget.AppCompat.Light.ActionBar
+str:Base.Widget.AppCompat.Light.ActionBar.Solid
+str:Base.Widget.AppCompat.Light.ActionBar.TabBar
+str:Base.Widget.AppCompat.ListMenuView
+str:Base.Widget.AppCompat.PopupWindow
+str:Base.Widget.AppCompat.SearchView
+str:Base.Widget.AppCompat.SearchView.ActionBar
+str:Base.Widget.AppCompat.SeekBar.Discrete
+str:TextAppearance.AppCompat
+str:TextAppearance.AppCompat.Body1
+str:TextAppearance.AppCompat.Body2
+str:TextAppearance.AppCompat.Button
+str:TextAppearance.AppCompat.Caption
+str:TextAppearance.AppCompat.Display1
+str:TextAppearance.AppCompat.Display2
+str:TextAppearance.AppCompat.Display3
+str:TextAppearance.AppCompat.Display4
+str:TextAppearance.AppCompat.Headline
+str:TextAppearance.AppCompat.Inverse
+str:TextAppearance.AppCompat.Large
+str:TextAppearance.AppCompat.Large.Inverse
+str:TextAppearance.AppCompat.Light.SearchResult.Subtitle
+str:TextAppearance.AppCompat.Light.SearchResult.Title
+str:TextAppearance.AppCompat.Light.Widget.PopupMenu.Large
+str:TextAppearance.AppCompat.Light.Widget.PopupMenu.Small
+str:TextAppearance.AppCompat.Medium
+str:TextAppearance.AppCompat.Medium.Inverse
+str:TextAppearance.AppCompat.Menu
+str:TextAppearance.AppCompat.Notification.Line2
+str:TextAppearance.AppCompat.Notification.Line2.Media
+str:TextAppearance.AppCompat.SearchResult.Subtitle
+str:TextAppearance.AppCompat.SearchResult.Title
+str:TextAppearance.AppCompat.Small
+str:TextAppearance.AppCompat.Small.Inverse
+str:TextAppearance.AppCompat.Subhead
+str:TextAppearance.AppCompat.Subhead.Inverse
+str:TextAppearance.AppCompat.Title
+str:TextAppearance.AppCompat.Title.Inverse
+str:TextAppearance.AppCompat.Widget.ActionBar.Menu
+str:TextAppearance.AppCompat.Widget.ActionBar.Subtitle
+str:TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse
+str:TextAppearance.AppCompat.Widget.ActionBar.Title
+str:TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse
+str:TextAppearance.AppCompat.Widget.ActionMode.Subtitle
+str:TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse
+str:TextAppearance.AppCompat.Widget.ActionMode.Title
+str:TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse
+str:TextAppearance.AppCompat.Widget.Button
+str:TextAppearance.AppCompat.Widget.Button.Borderless.Colored
+str:TextAppearance.AppCompat.Widget.Button.Colored
+str:TextAppearance.AppCompat.Widget.Button.Inverse
+str:TextAppearance.AppCompat.Widget.DropDownItem
+str:TextAppearance.AppCompat.Widget.PopupMenu.Header
+str:TextAppearance.AppCompat.Widget.PopupMenu.Large
+str:TextAppearance.AppCompat.Widget.PopupMenu.Small
+str:TextAppearance.AppCompat.Widget.Switch
+str:TextAppearance.AppCompat.Widget.TextView.SpinnerItem
+str:TextAppearance.Compat.Notification.Line2
+str:TextAppearance.Compat.Notification.Line2.Media
+str:TextAppearance.Widget.AppCompat.ExpandedMenu.Item
+str:TextAppearance.Widget.AppCompat.Toolbar.Subtitle
+str:TextAppearance.Widget.AppCompat.Toolbar.Title
+str:Theme.AppCompat
+str:Theme.AppCompat.CompactMenu
+str:Theme.AppCompat.Dialog
+str:Theme.AppCompat.Dialog.Alert
+str:Theme.AppCompat.Dialog.MinWidth
+str:Theme.AppCompat.DialogWhenLarge
+str:Theme.AppCompat.Light
+str:Theme.AppCompat.Light.DarkActionBar
+str:Theme.AppCompat.Light.Dialog
+str:Theme.AppCompat.Light.Dialog.Alert
+str:Theme.AppCompat.Light.Dialog.MinWidth
+str:Theme.AppCompat.Light.DialogWhenLarge
+str:Theme.AppCompat.Light.NoActionBar
+str:Theme.AppCompat.NoActionBar
+str:ThemeOverlay.AppCompat
+str:ThemeOverlay.AppCompat.ActionBar
+str:ThemeOverlay.AppCompat.Dark
+str:ThemeOverlay.AppCompat.Dark.ActionBar
+str:ThemeOverlay.AppCompat.Dialog
+str:ThemeOverlay.AppCompat.Dialog.Alert
+str:ThemeOverlay.AppCompat.Light
+str:Widget.AppCompat.ActionBar
+str:Widget.AppCompat.ActionBar.Solid
+str:Widget.AppCompat.ActionBar.TabBar
+str:Widget.AppCompat.ActionBar.TabText
+str:Widget.AppCompat.ActionBar.TabView
+str:Widget.AppCompat.ActionButton
+str:Widget.AppCompat.ActionButton.CloseMode
+str:Widget.AppCompat.ActionButton.Overflow
+str:Widget.AppCompat.ActionMode
+str:Widget.AppCompat.ActivityChooserView
+str:Widget.AppCompat.AutoCompleteTextView
+str:Widget.AppCompat.Button
+str:Widget.AppCompat.Button.Borderless
+str:Widget.AppCompat.Button.Borderless.Colored
+str:Widget.AppCompat.Button.ButtonBar.AlertDialog
+str:Widget.AppCompat.Button.Colored
+str:Widget.AppCompat.Button.Small
+str:Widget.AppCompat.ButtonBar
+str:Widget.AppCompat.ButtonBar.AlertDialog
+str:Widget.AppCompat.CompoundButton.CheckBox
+str:Widget.AppCompat.CompoundButton.RadioButton
+str:Widget.AppCompat.CompoundButton.Switch
+str:Widget.AppCompat.DrawerArrowToggle
+str:Widget.AppCompat.DropDownItem.Spinner
+str:Widget.AppCompat.EditText
+str:Widget.AppCompat.ImageButton
+str:Widget.AppCompat.Light.ActionBar
+str:Widget.AppCompat.Light.ActionBar.Solid
+str:Widget.AppCompat.Light.ActionBar.Solid.Inverse
+str:Widget.AppCompat.Light.ActionBar.TabBar
+str:Widget.AppCompat.Light.ActionBar.TabBar.Inverse
+str:Widget.AppCompat.Light.ActionBar.TabText
+str:Widget.AppCompat.Light.ActionBar.TabText.Inverse
+str:Widget.AppCompat.Light.ActionBar.TabView
+str:Widget.AppCompat.Light.ActionBar.TabView.Inverse
+str:Widget.AppCompat.Light.ActionButton
+str:Widget.AppCompat.Light.ActionButton.CloseMode
+str:Widget.AppCompat.Light.ActionButton.Overflow
+str:Widget.AppCompat.Light.ActionMode.Inverse
+str:Widget.AppCompat.Light.ActivityChooserView
+str:Widget.AppCompat.Light.AutoCompleteTextView
+str:Widget.AppCompat.Light.DropDownItem.Spinner
+str:Widget.AppCompat.Light.ListPopupWindow
+str:Widget.AppCompat.Light.ListView.DropDown
+str:Widget.AppCompat.Light.PopupMenu
+str:Widget.AppCompat.Light.PopupMenu.Overflow
+str:Widget.AppCompat.Light.SearchView
+str:Widget.AppCompat.Light.Spinner.DropDown.ActionBar
+str:Widget.AppCompat.ListMenuView
+str:Widget.AppCompat.ListPopupWindow
+str:Widget.AppCompat.ListView
+str:Widget.AppCompat.ListView.DropDown
+str:Widget.AppCompat.ListView.Menu
+str:Widget.AppCompat.PopupMenu
+str:Widget.AppCompat.PopupMenu.Overflow
+str:Widget.AppCompat.PopupWindow
+str:Widget.AppCompat.ProgressBar
+str:Widget.AppCompat.ProgressBar.Horizontal
+str:Widget.AppCompat.RatingBar
+str:Widget.AppCompat.RatingBar.Indicator
+str:Widget.AppCompat.RatingBar.Small
+str:Widget.AppCompat.SearchView
+str:Widget.AppCompat.SearchView.ActionBar
+str:Widget.AppCompat.SeekBar
+str:Widget.AppCompat.SeekBar.Discrete
+str:Widget.AppCompat.Spinner
+str:Widget.AppCompat.Spinner.DropDown
+str:Widget.AppCompat.Spinner.DropDown.ActionBar
+str:Widget.AppCompat.Spinner.Underlined
+str:Widget.AppCompat.TextView.SpinnerItem
+str:Widget.AppCompat.Toolbar
+str:Widget.AppCompat.Toolbar.Button.Navigation
+str:abc_action_bar_embed_tabs
+str:abc_allow_stacked_button_bar
+str:abc_config_actionMenuItemAllCaps
+str:abc_config_closeDialogWhenTouchOutside
+str:abc_config_showMenuShortcutsWhenKeyboardPresent
+str:notification_action_color_filter
+str:abc_input_method_navigation_guard
+str:abc_search_url_text_normal
+str:abc_search_url_text_pressed
+str:abc_search_url_text_selected
+str:accent_material_dark
+str:accent_material_light
+str:background_floating_material_dark
+str:background_floating_material_light
+str:background_material_dark
+str:background_material_light
+str:bright_foreground_disabled_material_dark
+str:bright_foreground_disabled_material_light
+str:bright_foreground_inverse_material_dark
+str:bright_foreground_inverse_material_light
+str:bright_foreground_material_dark
+str:bright_foreground_material_light
+str:button_material_dark
+str:button_material_light
+str:dim_foreground_disabled_material_dark
+str:dim_foreground_disabled_material_light
+str:dim_foreground_material_dark
+str:dim_foreground_material_light
+str:error_color_material
+str:foreground_material_dark
+str:foreground_material_light
+str:highlighted_text_material_dark
+str:highlighted_text_material_light
+str:material_blue_grey_800
+str:material_blue_grey_900
+str:material_blue_grey_950
+str:material_deep_teal_200
+str:material_deep_teal_500
+str:material_grey_100
+str:material_grey_300
+str:material_grey_50
+str:material_grey_600
+str:material_grey_800
+str:material_grey_850
+str:material_grey_900
+str:notification_icon_bg_color
+str:notification_material_background_media_default_color
+str:primary_dark_material_dark
+str:primary_dark_material_light
+str:primary_material_dark
+str:primary_material_light
+str:primary_text_default_material_dark
+str:primary_text_default_material_light
+str:primary_text_disabled_material_dark
+str:primary_text_disabled_material_light
+str:ripple_material_dark
+str:ripple_material_light
+str:secondary_text_default_material_dark
+str:secondary_text_default_material_light
+str:secondary_text_disabled_material_dark
+str:secondary_text_disabled_material_light
+str:switch_thumb_disabled_material_dark
+str:switch_thumb_disabled_material_light
+str:switch_thumb_normal_material_dark
+str:switch_thumb_normal_material_light
+str:tooltip_background_dark
+str:tooltip_background_light
+str:abc_background_cache_hint_selector_material_dark
+str:abc_background_cache_hint_selector_material_light
+str:abc_btn_colored_borderless_text_material
+str:abc_btn_colored_text_material
+str:abc_color_highlight_material
+str:abc_hint_foreground_material_dark
+str:abc_hint_foreground_material_light
+str:abc_primary_text_disable_only_material_dark
+str:abc_primary_text_disable_only_material_light
+str:abc_primary_text_material_dark
+str:abc_primary_text_material_light
+str:abc_search_url_text
+str:abc_secondary_text_material_dark
+str:abc_secondary_text_material_light
+str:abc_tint_btn_checkable
+str:abc_tint_default
+str:abc_tint_edittext
+str:abc_tint_seek_thumb
+str:abc_tint_spinner
+str:abc_tint_switch_track
+str:switch_thumb_material_dark
+str:switch_thumb_material_light
+str:action_bar_activity_content
+str:action_bar_spinner
+str:action_menu_divider
+str:action_menu_presenter
+str:home
+str:line1
+str:line3
+str:progress_circular
+str:progress_horizontal
+str:split_action_bar
+str:text
+str:text2
+str:up
+str:parent
+str:spread
+str:wrap
+str:packed
+str:spread_inside
+str:all
+str:basic
+str:chains
+str:none
+str:listMode
+str:normal
+str:tabMode
+str:disableHome
+str:homeAsUp
+str:showCustom
+str:showHome
+str:useLogo
+str:multiply
+str:screen
+str:src_atop
+str:src_in
+str:src_over
+str:add
+str:uniform
+str:wrap_content
+str:async
+str:blocking
+str:forever
+str:italic
+str:beginning
+str:end
+str:middle
+str:ALT
+str:CTRL
+str:FUNCTION
+str:META
+str:SHIFT
+str:SYM
+str:always
+str:collapseActionView
+str:ifRoom
+str:never
+str:withText
+str:bottom
+str:top
+str:action_bar_title
+str:action_bar_subtitle
+str:action_mode_close_button
+str:activity_chooser_view_content
+str:expand_activities_button
+str:image
+str:default_activity_button
+str:list_item
+str:buttonPanel
+str:spacer
+str:parentPanel
+str:contentPanel
+str:scrollIndicatorUp
+str:scrollView
+str:textSpacerNoTitle
+str:textSpacerNoButtons
+str:scrollIndicatorDown
+str:customPanel
+str:custom
+str:topPanel
+str:title_template
+str:alertTitle
+str:titleDividerNoCustom
+str:expanded_menu
+str:checkbox
+str:shortcut
+str:radio
+str:submenuarrow
+str:action_bar_root
+str:action_mode_bar_stub
+str:action_mode_bar
+str:decor_content_parent
+str:action_bar_container
+str:action_bar
+str:action_context_bar
+str:edit_query
+str:search_bar
+str:search_badge
+str:search_button
+str:search_edit_frame
+str:search_mag_icon
+str:search_plate
+str:search_src_text
+str:search_close_btn
+str:submit_area
+str:search_go_btn
+str:search_voice_btn
+str:select_dialog_listview
+str:send
+str:query
+str:action_container
+str:action_image
+str:action_text
+str:action0
+str:cancel_action
+str:status_bar_latest_event_content
+str:media_actions
+str:action_divider
+str:notification_main_column_container
+str:notification_main_column
+str:right_side
+str:time
+str:chronometer
+str:info
+str:notification_background
+str:right_icon
+str:actions
+str:icon_group
+str:end_padder
+str:message
+str:abc_config_activityDefaultDur
+str:abc_config_activityShortDur
+str:cancel_button_image_alpha
+str:config_tooltipAnimTime
+str:status_bar_notification_info_maxnum
+======================== key_string_pool end========================
+
+
+res_chunk_header type: 0x202
+res_chunk_header header size: 16
+res_chunk_header size: 1212
+type name : attr
+res type spec-----------> id:1,res0:0,res1:  ,entryCount:299
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+res_chunk_header type: 0x201
+res_chunk_header header size: 76
+res_chunk_header size: 10928
+size:8   ,imsi:    ,local:    ,screen_type:    		_input:    ,screen_size:    ,version:    ,		screen_config:    ,screen_size_dp:    ,locale_script:    		locale_varuant:        		
+type name:attr
+int element :     
+int element :    
+int element : 8   
+int element : T   
+int element : p   
+int element : �   
+int element : �   
+int element : �   
+int element : �   
+int element :    
+int element : <  
+int element : d  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : 0  
+int element : L  
+int element : h  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : 0  
+int element : L  
+int element : t  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : 0  
+int element : X  
+int element : t  
+int element : �  
+int element : �  
+int element :   
+int element :    
+int element : <  
+int element : X  
+int element : t  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :    
+int element :   
+int element : h  
+int element : �  
+int element : �  
+int element : 4  
+int element : P  
+int element : l  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : 0  
+int element : L  
+int element : h  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : 	  
+int element : ,	  
+int element : H	  
+int element : d	  
+int element : �	  
+int element : �	  
+int element : �	  
+int element : �	  
+int element : �	  
+int element : 
+  
+int element : (
+  
+int element : D
+  
+int element : `
+  
+int element : |
+  
+int element : �
+  
+int element : �
+  
+int element : �
+  
+int element : �
+  
+int element :   
+int element : `  
+int element : |  
+int element : �  
+int element : �  
+int element :   
+int element : L  
+int element : h  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : ,  
+int element : H  
+int element : d  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : (  
+int element : D  
+int element : `  
+int element : |  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : 0  
+int element : L  
+int element : h  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : ,  
+int element : H  
+int element : d  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : (  
+int element : D  
+int element : `  
+int element : |  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : $  
+int element : @  
+int element : \  
+int element : x  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element :    
+int element : <  
+int element : X  
+int element : t  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :    
+int element :   
+int element : 8  
+int element : T  
+int element : p  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : 4  
+int element : P  
+int element : l  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : 0  
+int element : L  
+int element : h  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : ,  
+int element : H  
+int element : d  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : (  
+int element : D  
+int element : `  
+int element : |  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : $  
+int element : @  
+int element : \  
+int element : x  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : \  
+int element : x  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element :    
+int element : <  
+int element : X  
+int element : t  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : <  
+int element : X  
+int element : t  
+int element : �  
+int element : �  
+int element : �  
+int element : \  
+int element : �  
+int element :   
+int element : 4  
+int element : P  
+int element : l  
+int element : �  
+int element : �  
+int element : �  
+int element : $  
+int element : @  
+int element : \  
+int element : x  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :    
+int element :     
+int element : <   
+int element : X   
+int element : t   
+int element : �   
+int element : �   
+int element : �   
+int element : �   
+int element :  !  
+int element : !  
+int element : 8!  
+int element : T!  
+int element : �!  
+int element : �!  
+int element : �!  
+int element : T"  
+int element : p"  
+int element : �"  
+int element : �"  
+int element : �"  
+int element : �"  
+int element : �"  
+int element : #  
+int element : 4#  
+int element : P#  
+int element : l#  
+int element : �#  
+int element : �#  
+int element : �#  
+int element : �#  
+int element : �#  
+int element : ,$  
+int element : H$  
+int element : d$  
+int element : �$  
+int element : �$  
+int element : �$  
+int element : �$  
+int element : �$  
+int element : %  
+int element : (%  
+int element : D%  
+int element : `%  
+res id :0x7f010000
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010001
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010002
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010003
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f010004
+name:   
+size: ,res0:0,data_type:16,data:(4,)
+res id :0x7f010005
+name:   
+size: ,res0:0,data_type:16,data:(65537,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+res id :0x7f010006
+name:   
+size: ,res0:0,data_type:16,data:(4,)
+res id :0x7f010007
+name:   
+size: ,res0:0,data_type:16,data:(65537,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+res id :0x7f010008
+name:   
+size: ,res0:0,data_type:16,data:(65537,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+res id :0x7f010009
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f01000a
+name:   
+size: ,res0:0,data_type:16,data:(65537,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+res id :0x7f01000b
+name:   
+size: ,res0:0,data_type:16,data:(65537,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+res id :0x7f01000c
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01000d
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01000e
+name:   
+size: ,res0:0,data_type:16,data:(32,)
+res id :0x7f01000f
+name:   
+size: ,res0:0,data_type:16,data:(65536,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+name: 
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010010
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010011
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010012
+name:   
+size: ,res0:0,data_type:16,data:(32,)
+res id :0x7f010013
+name:   
+size: ,res0:0,data_type:16,data:(65536,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+name: 
+size: ,res0:0,data_type:16,data:(2,)
+name: 
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010014
+name:   
+size: ,res0:0,data_type:16,data:(32,)
+res id :0x7f010015
+name:   
+size: ,res0:0,data_type:16,data:(4,)
+res id :0x7f010016
+name:   
+size: ,res0:0,data_type:16,data:(65537,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+res id :0x7f010017
+name:   
+size: ,res0:0,data_type:16,data:(65537,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+res id :0x7f010018
+name:   
+size: ,res0:0,data_type:16,data:(4,)
+res id :0x7f010019
+name:   
+size: ,res0:0,data_type:16,data:(65537,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+res id :0x7f01001a
+name:   
+size: ,res0:0,data_type:16,data:(65537,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+res id :0x7f01001b
+name:   
+size: ,res0:0,data_type:16,data:(65537,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+res id :0x7f01001c
+name:   
+size: ,res0:0,data_type:16,data:(65537,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+res id :0x7f01001d
+name:   
+size: ,res0:0,data_type:16,data:(4,)
+res id :0x7f01001e
+name:   
+size: ,res0:0,data_type:16,data:(65537,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+res id :0x7f01001f
+name:   
+size: ,res0:0,data_type:16,data:(65537,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+res id :0x7f010020
+name:   
+size: ,res0:0,data_type:16,data:(32,)
+res id :0x7f010021
+name:   
+size: ,res0:0,data_type:16,data:(65536,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+name: 
+size: ,res0:0,data_type:16,data:(2,)
+name: 
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010022
+name:   
+size: ,res0:0,data_type:16,data:(32,)
+res id :0x7f010023
+name:   
+size: ,res0:0,data_type:16,data:(65536,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+name: 
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010024
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010025
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010026
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010027
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010028
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010029
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01002a
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01002b
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01002c
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01002d
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01002e
+name:   
+size: ,res0:0,data_type:16,data:(131072,)
+name: 
+size: ,res0:0,data_type:16,data:(2,)
+name: 
+size: ,res0:0,data_type:16,data:(4,)
+name: 
+size: ,res0:0,data_type:16,data:(8,)
+name: 
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01002f
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f010030
+name:   
+size: ,res0:0,data_type:16,data:(65536,)
+name: 
+size: ,res0:0,data_type:16,data:(1,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+name: 
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f010031
+name:   
+size: ,res0:0,data_type:16,data:(131072,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+name: 
+size: ,res0:0,data_type:17,data:(32,)
+name: 
+size: ,res0:0,data_type:17,data:(4,)
+name: 
+size: ,res0:0,data_type:17,data:(16,)
+name: 
+size: ,res0:0,data_type:17,data:(2,)
+name: 
+size: ,res0:0,data_type:17,data:(8,)
+name: 
+size: ,res0:0,data_type:17,data:(1,)
+res id :0x7f010032
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f010033
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010034
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010035
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010036
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010037
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010038
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010039
+name:   
+size: ,res0:0,data_type:16,data:(17,)
+res id :0x7f01003a
+name:   
+size: ,res0:0,data_type:16,data:(17,)
+res id :0x7f01003b
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01003c
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01003d
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01003e
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01003f
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010040
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010041
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f010042
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010043
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010044
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010045
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010046
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010047
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010048
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010049
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01004a
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01004b
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f01004c
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01004d
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01004e
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01004f
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010050
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010051
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010052
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f010053
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010054
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f010055
+name:   
+size: ,res0:0,data_type:16,data:(65536,)
+name:  
+size: ,res0:0,data_type:16,data:(14,)
+name:! 
+size: ,res0:0,data_type:16,data:(15,)
+name:" 
+size: ,res0:0,data_type:16,data:(9,)
+name:# 
+size: ,res0:0,data_type:16,data:(5,)
+name:$ 
+size: ,res0:0,data_type:16,data:(3,)
+res id :0x7f010056
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010057
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f010058
+name:   
+size: ,res0:0,data_type:16,data:(65536,)
+name:  
+size: ,res0:0,data_type:16,data:(14,)
+name:! 
+size: ,res0:0,data_type:16,data:(15,)
+name:" 
+size: ,res0:0,data_type:16,data:(9,)
+name:# 
+size: ,res0:0,data_type:16,data:(5,)
+name:$ 
+size: ,res0:0,data_type:16,data:(3,)
+name:% 
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f010059
+name:   
+size: ,res0:0,data_type:16,data:(9,)
+res id :0x7f01005a
+name:   
+size: ,res0:0,data_type:16,data:(65536,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+name:& 
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01005b
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01005c
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01005d
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01005e
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01005f
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f010060
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f010061
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f010062
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f010063
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f010064
+name:   
+size: ,res0:0,data_type:16,data:(192,)
+res id :0x7f010065
+name:   
+size: ,res0:0,data_type:16,data:(192,)
+res id :0x7f010066
+name:   
+size: ,res0:0,data_type:16,data:(192,)
+res id :0x7f010067
+name:   
+size: ,res0:0,data_type:16,data:(192,)
+res id :0x7f010068
+name:   
+size: ,res0:0,data_type:16,data:(192,)
+res id :0x7f010069
+name:   
+size: ,res0:0,data_type:16,data:(192,)
+res id :0x7f01006a
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01006b
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01006c
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01006d
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01006e
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01006f
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010070
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010071
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010072
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010073
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010074
+name:   
+size: ,res0:0,data_type:16,data:(65600,)
+name:' 
+size: ,res0:0,data_type:16,data:(0,)
+res id :0x7f010075
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010076
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010077
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010078
+name:   
+size: ,res0:0,data_type:16,data:(17,)
+res id :0x7f010079
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01007a
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01007b
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01007c
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01007d
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01007e
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01007f
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010080
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010081
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010082
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010083
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010084
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010085
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010086
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010087
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010088
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010089
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01008a
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01008b
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01008c
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01008d
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01008e
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01008f
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010090
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010091
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010092
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010093
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010094
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010095
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010096
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010097
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010098
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010099
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01009a
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01009b
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01009c
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01009d
+name:   
+size: ,res0:0,data_type:16,data:(17,)
+res id :0x7f01009e
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01009f
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100a0
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100a1
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100a2
+name:   
+size: ,res0:0,data_type:16,data:(17,)
+res id :0x7f0100a3
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100a4
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f0100a5
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f0100a6
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f0100a7
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f0100a8
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f0100a9
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100aa
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100ab
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100ac
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100ad
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100ae
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100af
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f0100b0
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100b1
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100b2
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f0100b3
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f0100b4
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f0100b5
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f0100b6
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f0100b7
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f0100b8
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f0100b9
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f0100ba
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100bb
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f0100bc
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100bd
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100be
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f0100bf
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100c0
+name:   
+size: ,res0:0,data_type:16,data:(17,)
+res id :0x7f0100c1
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100c2
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100c3
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100c4
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100c5
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100c6
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100c7
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100c8
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100c9
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100ca
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100cb
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100cc
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100cd
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100ce
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100cf
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100d0
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100d1
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100d2
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100d3
+name:   
+size: ,res0:0,data_type:16,data:(17,)
+res id :0x7f0100d4
+name:   
+size: ,res0:0,data_type:16,data:(17,)
+res id :0x7f0100d5
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f0100d6
+name:   
+size: ,res0:0,data_type:16,data:(32,)
+res id :0x7f0100d7
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f0100d8
+name:   
+size: ,res0:0,data_type:16,data:(65536,)
+name:  
+size: ,res0:0,data_type:16,data:(14,)
+name:! 
+size: ,res0:0,data_type:16,data:(15,)
+name:" 
+size: ,res0:0,data_type:16,data:(9,)
+name:# 
+size: ,res0:0,data_type:16,data:(5,)
+name:$ 
+size: ,res0:0,data_type:16,data:(3,)
+res id :0x7f0100d9
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f0100da
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f0100db
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f0100dc
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f0100dd
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f0100de
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f0100df
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f0100e0
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f0100e1
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f0100e2
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f0100e3
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f0100e4
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100e5
+name:   
+size: ,res0:0,data_type:16,data:(65536,)
+name:( 
+size: ,res0:0,data_type:16,data:(1,)
+name:) 
+size: ,res0:0,data_type:16,data:(0,)
+res id :0x7f0100e6
+name:   
+size: ,res0:0,data_type:16,data:(65540,)
+name:* 
+size: ,res0:0,data_type:16,data:(-1,)
+res id :0x7f0100e7
+name:   
+size: ,res0:0,data_type:16,data:(65536,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+name:+ 
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100e8
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100e9
+name:   
+size: ,res0:0,data_type:16,data:(4,)
+res id :0x7f0100ea
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f0100eb
+name:   
+size: ,res0:0,data_type:16,data:(131072,)
+name: 
+size: ,res0:0,data_type:16,data:(0,)
+name:, 
+size: ,res0:0,data_type:16,data:(1,)
+name:- 
+size: ,res0:0,data_type:16,data:(4,)
+name:. 
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f0100ec
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f0100ed
+name:   
+size: ,res0:0,data_type:16,data:(131072,)
+name:/ 
+size: ,res0:0,data_type:17,data:(2,)
+name:0 
+size: ,res0:0,data_type:17,data:(4096,)
+name:1 
+size: ,res0:0,data_type:17,data:(8,)
+name:2 
+size: ,res0:0,data_type:17,data:(65536,)
+name:3 
+size: ,res0:0,data_type:17,data:(1,)
+name:4 
+size: ,res0:0,data_type:17,data:(4,)
+res id :0x7f0100ee
+name:   
+size: ,res0:0,data_type:16,data:(131072,)
+name:/ 
+size: ,res0:0,data_type:17,data:(2,)
+name:0 
+size: ,res0:0,data_type:17,data:(4096,)
+name:1 
+size: ,res0:0,data_type:17,data:(8,)
+name:2 
+size: ,res0:0,data_type:17,data:(65536,)
+name:3 
+size: ,res0:0,data_type:17,data:(1,)
+name:4 
+size: ,res0:0,data_type:17,data:(4,)
+res id :0x7f0100ef
+name:   
+size: ,res0:0,data_type:16,data:(131072,)
+name:5 
+size: ,res0:0,data_type:16,data:(2,)
+name:6 
+size: ,res0:0,data_type:16,data:(8,)
+name:7 
+size: ,res0:0,data_type:16,data:(1,)
+name:8 
+size: ,res0:0,data_type:16,data:(0,)
+name:9 
+size: ,res0:0,data_type:16,data:(4,)
+res id :0x7f0100f0
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100f1
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f0100f2
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f0100f3
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f0100f4
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f0100f5
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f0100f6
+name:   
+size: ,res0:0,data_type:16,data:(65536,)
+name:  
+size: ,res0:0,data_type:16,data:(14,)
+name:! 
+size: ,res0:0,data_type:16,data:(15,)
+name:" 
+size: ,res0:0,data_type:16,data:(9,)
+name:# 
+size: ,res0:0,data_type:16,data:(5,)
+name:$ 
+size: ,res0:0,data_type:16,data:(3,)
+name:% 
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f0100f7
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f0100f8
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100f9
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f0100fa
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f0100fb
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f0100fc
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f0100fd
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f0100fe
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f0100ff
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f010100
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f010101
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010102
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010103
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010104
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010105
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010106
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010107
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010108
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010109
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01010a
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f01010b
+name:   
+size: ,res0:0,data_type:16,data:(65536,)
+name:  
+size: ,res0:0,data_type:16,data:(14,)
+name:! 
+size: ,res0:0,data_type:16,data:(15,)
+name:" 
+size: ,res0:0,data_type:16,data:(9,)
+name:# 
+size: ,res0:0,data_type:16,data:(5,)
+name:$ 
+size: ,res0:0,data_type:16,data:(3,)
+name:% 
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f01010c
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f01010d
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f01010e
+name:   
+size: ,res0:0,data_type:16,data:(65536,)
+name:  
+size: ,res0:0,data_type:16,data:(14,)
+name:! 
+size: ,res0:0,data_type:16,data:(15,)
+name:" 
+size: ,res0:0,data_type:16,data:(9,)
+name:# 
+size: ,res0:0,data_type:16,data:(5,)
+name:$ 
+size: ,res0:0,data_type:16,data:(3,)
+name:% 
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f01010f
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010110
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010111
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010112
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010113
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f010114
+name:   
+size: ,res0:0,data_type:16,data:(8,)
+res id :0x7f010115
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010116
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010117
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010118
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010119
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01011a
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01011b
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01011c
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01011d
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f01011e
+name:   
+size: ,res0:0,data_type:16,data:(131072,)
+name:: 
+size: ,res0:0,data_type:17,data:(80,)
+name:; 
+size: ,res0:0,data_type:17,data:(48,)
+res id :0x7f01011f
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010120
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f010121
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010122
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f010123
+name:   
+size: ,res0:0,data_type:16,data:(2,)
+res id :0x7f010124
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f010125
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f010126
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010127
+name:   
+size: ,res0:0,data_type:16,data:(64,)
+res id :0x7f010128
+name:   
+size: ,res0:0,data_type:16,data:(1,)
+res id :0x7f010129
+name:   
+size: ,res0:0,data_type:16,data:(16,)
+res id :0x7f01012a
+name:   
+size: ,res0:0,data_type:16,data:(65536,)
+name:  
+size: ,res0:0,data_type:16,data:(14,)
+name:! 
+size: ,res0:0,data_type:16,data:(15,)
+name:" 
+size: ,res0:0,data_type:16,data:(9,)
+name:# 
+size: ,res0:0,data_type:16,data:(5,)
+name:$ 
+size: ,res0:0,data_type:16,data:(3,)
+res_chunk_header type: 0x202
+res_chunk_header header size: 16
+res_chunk_header size: 416
+type name : drawable
+res type spec-----------> id:2,res0:0,res1:  ,entryCount:100
+int element : (256,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (256,)
+int element : (256,)
+int element : (1024,)
+int element : (0,)
+int element : (0,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (0,)
+int element : (0,)
+int element : (256,)
+int element : (0,)
+int element : (0,)
+int element : (1024,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (256,)
+int element : (0,)
+int element : (17664,)
+int element : (17664,)
+int element : (0,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (0,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (0,)
+int element : (0,)
+int element : (256,)
+int element : (256,)
+int element : (0,)
+int element : (0,)
+int element : (256,)
+int element : (256,)
+int element : (1024,)
+int element : (1024,)
+int element : (1024,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (17664,)
+int element : (0,)
+int element : (0,)
+int element : (256,)
+int element : (0,)
+int element : (256,)
+int element : (0,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (0,)
+int element : (0,)
+int element : (1280,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (256,)
+int element : (0,)
+int element : (0,)
+int element : (256,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+int element : (0,)
+res_chunk_header type: 0x201
+res_chunk_header header size: 76
+res_chunk_header size: 492
+size:8   ,imsi:    ,local:    ,screen_type:  ��		_input:    ,screen_size:    ,version:   ,		screen_config:    ,screen_size_dp:    ,locale_script:    		locale_varuant:        		
+type name:drawable
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : (  
+int element : D  
+int element : `  
+int element : |  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : 0  
+int element : L  
+int element : h  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : ,  
+int element : H  
+int element : d  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : (  
+int element : D  
+int element : `  
+int element : |  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : $  
+int element : @  
+int element : \  
+int element : x  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element :    
+int element : <  
+int element : X  
+int element : t  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :    
+int element :   
+int element : 8  
+int element : T  
+int element : p  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : 4  
+int element : P  
+int element : l  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : 0  
+int element : L  
+int element : h  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : ,  
+int element : H  
+int element : d  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element : �  
+int element :   
+int element : (  
+int element : D  
+int element : `  
+int element : |  
+int element : �  
+res id :0x7f020000
+size: ,res0:0,data_type:0,data:(16777216,)
+res id :0x7f020001
+size: ,res0:1,data_type:0,data:(191,)
+res id :0x7f020002
+size:  ,res0:0,data_type:0,data:(1,)
+res id :0x7f020003
+size:  ,res0:0,data_type:1,data:(268435464,)
+res id :0x7f020004
+size:  ,res0:0,data_type:16,data:(-1073741568,)
+res id :0x7f020005
+size:  ,res0:0,data_type:0,data:(16777216,)
+res id :0x7f020006
+size:  ,res0:0,data_type:0,data:(134283264,)
+res id :0x7f020007
+size:  ,res0:16,data_type:17,data:(268435456,)
+res id :0x7f020008
+size:  ,res0:0,data_type:0,data:(16777216,)
+res id :0x7f020009
+size:  ,res0:0,data_type:0,data:(134283264,)
+res id :0x7f02000a
+size:  ,res0:16,data_type:1,data:(268435456,)
+res id :0x7f02000b
+size:  ,res0:0,data_type:0,data:(16777216,)
+res id :0x7f02000c
+size:  ,res0:0,data_type:0,data:(134283264,)
+res id :0x7f02000d
+size:  ,res0:16,data_type:17,data:(268435456,)
+res id :0x7f02000e
+size: ,res0:0,data_type:220,data:(0,)
+res id :0x7f02000f
+size:  ,res0:0,data_type:1,data:(0,)
+res id :0x7f020010
+size:  ,res0:1,data_type:8,data:(1074790400,)
+res id :0x7f020011
+size:  ,res0:0,data_type:16,data:(-587202304,)
+res id :0x7f020012
+size:  ,res0:0,data_type:0,data:(16777216,)
+res id :0x7f020013
+size:  ,res0:0,data_type:0,data:(134283264,)
+res id :0x7f020014
+size:  ,res0:16,data_type:64,data:(268435456,)
+res id :0x7f020015
+size:  ,res0:0,data_type:2,data:(0,)
+res id :0x7f020016
+size:  ,res0:1,data_type:8,data:(68157440,)
+res id :0x7f020017
+size: ,res0:0,data_type:237,data:(0,)
+res id :0x7f020018
+size:  ,res0:0,data_type:7,data:(0,)
+res id :0x7f020019
+size:  ,res0:1,data_type:8,data:(1048576,)
+res id :0x7f02001a
+size:  ,res0:16,data_type:3,data:(620756992,)
+res id :0x7f02001b
+size:��,res0:255,data_type:255,data:(-1,)
+res id :0x7f02001c
+size:��,res0:255,data_type:255,data:(240,)
+res id :0x7f02001d
+size: ,res0:0,data_type:3,data:(5,)
+res id :0x7f02001e
+size: ,res0:0,data_type:3,data:(6,)
+res id :0x7f02001f
+size: ,res0:0,data_type:3,data:(17,)
+res id :0x7f020020
+size: ,res0:0,data_type:3,data:(19,)
+res id :0x7f020021
+size: ,res0:0,data_type:3,data:(20,)
+res id :0x7f020022
+size: ,res0:0,data_type:3,data:(41,)
+res id :0x7f020023
+size: ,res0:0,data_type:3,data:(42,)
+res id :0x7f020024
+size: ,res0:0,data_type:3,data:(48,)
+res id :0x7f020025
+size: ,res0:0,data_type:3,data:(49,)
+res id :0x7f020026
+size: ,res0:0,data_type:3,data:(51,)
+res id :0x7f020027
+size: ,res0:0,data_type:3,data:(52,)
+res id :0x7f020028
+size: ,res0:0,data_type:3,data:(53,)
+res id :0x7f020029
+size: ,res0:0,data_type:3,data:(58,)
+res id :0x7f02002a
+size: ,res0:0,data_type:3,data:(79,)
+res id :0x7f02002b
+size: ,res0:0,data_type:3,data:(95,)
+res id :0x7f02002c
+size: ,res0:0,data_type:3,data:(86,)
+res id :0x7f02002d
+size: ,res0:0,data_type:3,data:(85,)
+res id :0x7f02002e
+size: ,res0:0,data_type:3,data:(84,)
+res id :0x7f02002f
+size: ,res0:0,data_type:3,data:(4,)
+res id :0x7f020030
+size: ,res0:0,data_type:3,data:(8,)
+res id :0x7f020031
+size: ,res0:0,data_type:3,data:(47,)
+res id :0x7f020032
+size: ,res0:0,data_type:3,data:(82,)
+res id :0x7f020033
+size: ,res0:0,data_type:3,data:(101,)
+res id :0x7f020034
+size: ,res0:0,data_type:3,data:(90,)
+res id :0x7f020035
+size: ,res0:0,data_type:3,data:(80,)
+res id :0x7f020036
+size: ,res0:0,data_type:3,data:(26,)
+res id :0x7f020037
+size: ,res0:0,data_type:3,data:(21,)
+res id :0x7f020038
+size: ,res0:0,data_type:3,data:(12,)
+res id :0x7f020039
+size: ,res0:0,data_type:3,data:(0,)
+res id :0x7f02003a
+size: ,res0:0,data_type:3,data:(7,)
+res id :0x7f02003b
+size: ,res0:0,data_type:3,data:(31,)
+res id :0x7f02003c
+size: ,res0:0,data_type:3,data:(36,)
+res id :0x7f02003d
+size: ,res0:0,data_type:3,data:(43,)
+res id :0x7f02003e
+size: ,res0:0,data_type:3,data:(54,)
+res id :0x7f02003f
+size: ,res0:0,data_type:3,data:(116,)
+res id :0x7f020040
+size: ,res0:0,data_type:3,data:(105,)
+res id :0x7f020041
+size: ,res0:0,data_type:3,data:(34,)
+res id :0x7f020042
+size: ,res0:0,data_type:3,data:(11,)
+res id :0x7f020043
+size: ,res0:0,data_type:3,data:(2,)
+res id :0x7f020044
+size: ,res0:0,data_type:3,data:(1,)
+res id :0x7f020045
+size: ,res0:0,data_type:28,data:(859026917,)
+res id :0x7f020046
+size: ,res0:0,data_type:28,data:(218103807,)
+res id :0x7f020047
+size: ,res0:0,data_type:8,data:(-2113732608,)
+res id :0x7f020048
+size:  ,res0:0,data_type:8,data:(1610612736,)
+res id :0x7f020049
+size:  ,res0:8,data_type:0,data:(8127232,)
+res id :0x7f02004a
+size:  ,res0:8,data_type:0,data:(23134208,)
+res id :0x7f02004b
+size:  ,res0:8,data_type:0,data:(8258304,)
+res id :0x7f02004c
+size:  ,res0:8,data_type:0,data:(23199744,)
+res id :0x7f02004d
+size:  ,res0:8,data_type:0,data:(8454912,)
+res id :0x7f02004e
+size:  ,res0:8,data_type:0,data:(25165824,)
+res id :0x7f02004f
+size:  ,res0:8,data_type:0,data:(7930624,)
+res id :0x7f020050
+size:  ,res0:1,data_type:2,data:(32243788,)
+res id :0x7f020051
+size:  ,res0:2,data_type:0,data:(6553600,)
+res id :0x7f020052
+size:  ,res0:220,data_type:1,data:(3670016,)
+res id :0x7f020053
+size:  ,res0:0,data_type:0,data:(0,)
+res id :0x7f020054
+size:  ,res0:0,data_type:0,data:(0,)
+res id :0x7f020055
+size:  ,res0:0,data_type:0,data:(1507328,)
+res id :0x7f020056
+size:  ,res0:0,data_type:0,data:(0,)
+res id :0x7f020057
+size:  ,res0:0,data_type:0,data:(0,)
+res id :0x7f020058
+size:  ,res0:0,data_type:0,data:(0,)
+res id :0x7f020059
+size:  ,res0:0,data_type:0,data:(-65536,)
+res id :0x7f02005a
+size:��,res0:255,data_type:255,data:(-1,)
+res id :0x7f02005b
+size:��,res0:255,data_type:255,data:(-1,)
+res id :0x7f02005c
+size:��,res0:255,data_type:255,data:(-1,)
+res id :0x7f02005d
+size:��,res0:255,data_type:255,data:(-1,)
+res id :0x7f02005e
+size:��,res0:255,data_type:255,data:(-1,)
+res id :0x7f02005f
+size:��,res0:255,data_type:255,data:(-1,)
+res id :0x7f020060
+size:��,res0:255,data_type:255,data:(-1,)
+res id :0x7f020061
+size:��,res0:255,data_type:255,data:(-1,)
+res id :0x7f020062
+size:��,res0:255,data_type:255,data:(16777215,)
+res id :0x7f020063
+size:  ,res0:0,data_type:255,data:(-1,)
+res_chunk_header type: -0x1
+res_chunk_header header size: -1
+res_chunk_header size: -1
+size:����,imsi:����,local:����,screen_type:����		_input:����,screen_size:����,version:����,		screen_config:����,screen_size_dp:����,locale_script:����		locale_varuant:��������		
