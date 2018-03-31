@@ -6,3 +6,4 @@ my personal blog resource
 * source_code/plugin_about 下为Android插件化相关代码及PDF,其中的所有代码均在Nexus 5,Android 6.0的Dalvik虚拟机下测试通过
 
 * [一个简单的MockServer](https://github.com/Guolei1130/SimpleMockServer)
+* [解析ARSC文件的 python脚本，但是目前还有点小问题](https://github.com/Guolei1130/blog_resource/tree/master/source_code/arsc_about/arsc_decode)
