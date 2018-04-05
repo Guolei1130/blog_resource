@@ -7,3 +7,4 @@ my personal blog resource
 
 * [一个简单的MockServer](https://github.com/Guolei1130/SimpleMockServer)
 * [解析ARSC文件的 python脚本，但是目前还有点小问题](https://github.com/Guolei1130/blog_resource/tree/master/source_code/arsc_about/arsc_decode)
+[![](https://badge.juejin.im/entry/5ac5d0af518825557459ee6a/likes.svg?style=flat-square)](https://juejin.im/post/5ac5d015f265da239a600a72)
