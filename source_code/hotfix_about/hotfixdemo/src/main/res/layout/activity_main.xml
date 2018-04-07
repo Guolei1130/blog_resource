@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.guolei.hotfixdemo.MainActivity"
+    >
+
+    <Button
+        android:id="@+id/log_info"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="输出信息"
+        />
+
+    <Button
+        android:id="@+id/load_fix"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="加载hotfix"
+        android:textAllCaps="false"
+        />
+
+    <Button
+        android:id="@+id/change_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_button_text"
+        />
+
+    <Button
+        android:id="@+id/enable_so_fix"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="允许SO热修复"
+        />
+
+    <TextView
+        android:id="@+id/from_jni"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/enable_instant_run"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="允许instant run 方案"
+        android:textAllCaps="false"
+        />
+
+    <Button
+        android:id="@+id/instant_run_test"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="测试instant run 方案"
+        android:textAllCaps="false"
+        />
+
+    <Button
+        android:id="@+id/struct_replace"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="基于底层结构替换的方案"
+        />
+
+    <Button
+        android:id="@+id/test_struct_replace"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="测试基于底层结构替换的方案"
+        android:textAllCaps="false"
+        />
+
+    <Button
+        android:id="@+id/so_diff_patch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="so diff patch 方案"
+        android:textAllCaps="false"
+        />
+
+</LinearLayout>

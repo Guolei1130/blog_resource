@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hotfixdemo</string>
+    <string name="app_button_text">改变本文案(原来的)</string>
+</resources>
